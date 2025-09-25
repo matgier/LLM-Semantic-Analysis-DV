@@ -1,0 +1,10 @@
+
+===== TABELA WYNIKÓW METRYK =====
+Kategoria                           | CTTR       | Entropia   | Liczba słów  | Unikalne słowa 
+------------------------------------------------------------------------------------------
+economic_policy_free_market         | 8.2025     | 7.7151     | 834          | 335            
+economic_policy_regulated           | 6.7414     | 7.4692     | 761          | 263            
+government_role_strong              | 6.1010     | 7.1672     | 674          | 224            
+government_role_weak                | 7.1107     | 7.4205     | 684          | 263            
+social_policy_progressive           | 6.7528     | 7.4564     | 770          | 265            
+social_policy_traditional           | 7.0666     | 7.5083     | 785          | 280            

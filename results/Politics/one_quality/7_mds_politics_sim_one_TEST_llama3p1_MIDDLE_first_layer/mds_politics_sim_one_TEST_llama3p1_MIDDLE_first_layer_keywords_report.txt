@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 3        2. social              : 3   
+ 3. support             : 2        4. role                : 1   
+ 5. strong              : 1        6. pole                : 1   
+ 7. represents          : 1        8. belief              : 1   
+ 9. active              : 1       10. intervention        : 1   
+11. necessary           : 1       12. societal            : 1   
+13. wellbeing           : 1       14. characterized       : 1   
+15. robust              : 1       16. regulation          : 1   
+17. businesses          : 1       18. comprehensive       : 1   
+19. programs            : 1       20. centralized         : 1   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 4        2. individual          : 2   
+ 3. liberty             : 2        4. over                : 2   
+ 5. role                : 1        6. weak                : 1   
+ 7. pole                : 1        8. represents          : 1   
+ 9. belief              : 1       10. minimal             : 1   
+11. involvement         : 1       12. produces            : 1   
+13. optimal             : 1       14. societal            : 1   
+15. outcomes            : 1       16. characterized       : 1   
+17. limited             : 1       18. regulation          : 1   
+19. businesses          : 1       20. reduced             : 1   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 3        2. policy              : 1   
+ 3. progressive         : 1        4. pole                : 1   
+ 5. represents          : 1        6. support             : 1   
+ 7. evolving            : 1        8. norms               : 1   
+ 9. expanded            : 1       10. civil               : 1   
+11. liberties           : 1       12. characterized       : 1   
+13. reproductive        : 1       14. rights              : 1   
+15. protections         : 1       16. lgbtq               : 1   
+17. equality            : 1       18. initiatives         : 1   
+19. secular             : 1       20. governance          : 1   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. social              : 3        2. government          : 3   
+ 3. traditional         : 2        4. rights              : 2   
+ 5. over                : 2        6. family              : 2   
+ 7. community           : 2        8. rather              : 2   
+ 9. policy              : 1       10. position            : 1   
+11. upholds             : 1       12. pro-life            : 1   
+13. values              : 1       14. prioritize          : 1   
+15. fetal               : 1       16. private             : 1   
+17. healthcare          : 1       18. systems             : 1   
+19. government-managed  : 1       20. alternatives        : 1   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 5        2. policy              : 2   
+ 3. prosperity          : 2        4. protections         : 2   
+ 5. wealth              : 2        6. regulated           : 1   
+ 7. pole                : 1        8. represents          : 1   
+ 9. belief              : 1       10. requires            : 1   
+11. governmental        : 1       12. oversight           : 1   
+13. characterized       : 1       14. support             : 1   
+15. progressive         : 1       16. taxation            : 1   
+17. labor               : 1       18. including           : 1   
+19. higher              : 1       20. minimum             : 1   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 2        2. opposes             : 2   
+ 3. market              : 2        4. growth              : 2   
+ 5. business            : 2        6. measures            : 2   
+ 7. approach            : 1        8. advocates           : 1   
+ 9. reduced             : 1       10. taxation            : 1   
+11. across              : 1       12. income              : 1   
+13. levels              : 1       14. especially          : 1   
+15. businesses          : 1       16. investors           : 1   
+17. government-mandated : 1       18. wage                : 1   
+19. standards           : 1       20. views               : 1   

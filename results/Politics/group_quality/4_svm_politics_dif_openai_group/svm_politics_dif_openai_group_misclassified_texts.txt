@@ -1,0 +1,315 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: economic_policy==================================================
+Łącznie próbek: 56Poprawnych klasyfikacji: 54 (96.43%)Błędnych klasyfikacji: 2 (3.57%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ market a jest ZAKWALIFIKOWANY  jako regulated
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+2. POWINNO BYĆ market a jest ZAKWALIFIKOWANY  jako regulated
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: government_role==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 82 (86.32%)Błędnych klasyfikacji: 13 (13.68%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      A majority of Republicans (65%) support police using military weapons and
+      armored vehicles
+
+2. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      It is good that our leaders recognize the importance of creating a healthy
+      regulatory environment, but there is plenty more work to be done. Three
+      central pillars support a coherent deregulatory strategy: transparency,
+      presidential control, and substantive deregulation where permitted by law.
+      Thus far, many of the new administration’s statements and actions accord
+      with them.
+
+3. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans are more likely than Democrats to support organized prayer in
+      public schools and to oppose the legal recognition of equal rights for
+      gays and lesbians (see gay rights movement). Regarding foreign policy, the
+      Republican Party traditionally has supported a strong national defense and
+      the aggressive pursuit of U.S. national security interests, even when it
+      entails acting unilaterally or in opposition to the views of the
+      international community.
+
+4. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+5. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      If we don't have a Border, we don't have a Country. Restoring sensible
+      Border Security and Immigration Policy requires many steps, all of which
+      would have been and indeed were taken for granted by prior Generations as
+      obviously necessary and good.
+
+6. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Religiously affiliated institutions broadly. A wide range of religiously
+      affiliated institutions have asserted that they have a legal and even
+      constitutional right to be exempted from government requirements, even
+      those designed to prevent discrimination. Those claims have not been
+      limited to decisions in hiring ministers and others with clearly religious
+      duties. Rather, institutions have often demanded that they be allowed to
+      discriminate on religious grounds even when hiring staff to fulfill
+      government grants. Moreover, institutions have insisted that they be
+      allowed to discriminate against LGBTQ individuals in regard to employment;
+      to ignore same-sex marriages in providing employee benefits; to fire
+      employees who have used abortion care, contraceptives or assisted
+      reproductive technology, or who have had sex or become pregnant outside of
+      marriage; or even to ignore federal law preventing discrimination on the
+      basis of disability.
+
+7. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Most importantly, policies must respect religious beliefs without harming
+      or infringing on the rights of others. Through options like the examples
+      below, policymakers can create the framework for a balanced, inclusive
+      vision of religious liberty throughout the United States.
+
+8. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Building the wall has long been one of Trump’s signature promises, but its
+      impacts beyond political symbolism are unclear. Illegal border crossings
+      have plunged since Trump took office in January amid a string of orders on
+      immigration, including the suspension of the asylum system. Simply ending
+      asylum meant tens of thousands of people who would’ve surrendered to law
+      enforcement instead of trying to avoid capture didn’t even attempt to
+      cross. Plus, the effectiveness of border walls is hotly debated, even in
+      populated areas where barriers tend to be heavily reinforced. Human
+      smugglers, often linked to drug cartels, have used tunnels, ladders and
+      power tools to cross walls.
+
+9. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Conservative Republicans are the most likely to express strong support for
+      more restrictive immigration goals such as increased border security and
+      increased deportations, even when compared with others in their party
+
+10. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+11. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.
+
+12. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans often frame energy policy within the context of national
+      security, emphasizing the need for a resilient and independent energy
+      system. Hydropower’s ability to provide baseload power and enhance grid
+      stability aligns with these goals. Moreover, its role in managing water
+      resources, such as flood control, irrigation, and navigation, adds another
+      layer of strategic importance.
+
+13. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Two trends make domestic production an urgent priority. The first is the
+      high cost of energy, which is burdening all of us. In the last four years,
+      gasoline, electricity, and natural gas prices have risen by nearly a
+      third. Removing restrictions on our energy companies can bring down these
+      ballooning costs
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: social_policy==================================================
+Łącznie próbek: 88Poprawnych klasyfikacji: 73 (82.95%)Błędnych klasyfikacji: 15 (17.05%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Immigrants contribute to the strength, vitality, and dynamism of our
+      communities, our economy, and our culture; America is also a sovereign
+      nation whose government has the right and the duty to control our borders
+      and decide who to admit. The best way to harmonize these two traditions is
+      to overhaul our system to make legal immigration work and illegal
+      immigration stop.
+
+2. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      The Republican Party is often referred to as the GOP. This abbreviation
+      stands for Grand Old Party. Its logo is an elephant. The Republican Party
+      is known to support right-leaning ideologies of conservatism, social
+      conservatism, and economic libertarianism, among other -isms. Thus,
+      Republicans broadly advocate for traditional values, a low degree of
+      government interference, and large support of the private sector.
+
+3. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+4. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Government often stands as the greatest obstacle to the progress and
+      prosperity of free people. Free markets and free trade agreements allow
+      for innovation, improvement and economic expansion as risk-takers,
+      entrepreneurs and business owners are given the liberty to pursue the
+      American dream and create more jobs and upward mobility for more people.
+      We believe competition should be encouraged, and government intervention
+      and regulation should be limited. The people are better qualified to make
+      decisions about their own lives and finances than bureaucrats, and the
+      private sector will outperform the public sector in virtually every
+      scenario. The free enterprise system rewards hard work and self-sacrifice,
+      and is the basis and genius of the American economy.
+
+5. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Today’s Republican party, while still claiming to stand for limited
+      government, is practicing just the opposite: government intrusion
+      everywhere.Republican lawmakers are banning masks in schools. Iowa,
+      Tennessee, Utah, Texas, Florida, Arkansas, Oklahoma, Arizona and South
+      Carolina are prohibiting public schools from requiring students wear them.
+      Republican states are on the way to outlawing abortions. Texas has just
+      banned abortions after six weeks of pregnancy, before many women even know
+      they’re pregnant. Other Republican states are on the way to enacting
+      similar measures.
+
+6. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Religiously affiliated institutions broadly. A wide range of religiously
+      affiliated institutions have asserted that they have a legal and even
+      constitutional right to be exempted from government requirements, even
+      those designed to prevent discrimination. Those claims have not been
+      limited to decisions in hiring ministers and others with clearly religious
+      duties. Rather, institutions have often demanded that they be allowed to
+      discriminate on religious grounds even when hiring staff to fulfill
+      government grants. Moreover, institutions have insisted that they be
+      allowed to discriminate against LGBTQ individuals in regard to employment;
+      to ignore same-sex marriages in providing employee benefits; to fire
+      employees who have used abortion care, contraceptives or assisted
+      reproductive technology, or who have had sex or become pregnant outside of
+      marriage; or even to ignore federal law preventing discrimination on the
+      basis of disability.
+
+7. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Most importantly, policies must respect religious beliefs without harming
+      or infringing on the rights of others. Through options like the examples
+      below, policymakers can create the framework for a balanced, inclusive
+      vision of religious liberty throughout the United States.
+
+8. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Collectively, these provisions reflect a Republican strategy focused on
+      limiting federal health spending, enforcing eligibility requirements and
+      shifting coverage options toward market-based solutions.
+
+9. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      The party opposes a government-run single-payer health care system,
+      claiming it constitutes socialized medicine. It favors a personal or
+      employer-based system of insurance supplemented by Medicare for the
+      elderly and Medicaid which covers approximately 40% of the poor.[citation
+      needed][19][failed verification] In 2003, Congress passed the Medicare
+      Modernization Act with bipartisan support creating Medicare Part D
+      covering prescription drugs. It was signed into law by President George W.
+      Bush.
+
+10. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Looking ahead, the Trump administration and GOP are in a position to
+      accelerate their health agenda with four key themes:, Flexibility and
+      choice: Shift decision making on healthcare from federal level to states
+      and individuals, Fiscal conservatism: Emphasize policies that reduce
+      government spending in an effort to balance the budget and pass upcoming
+      tax legislation, Public health reform: Revaluate the current health system
+      to “Make America Healthy Again”, Deregulation: Reduce the volume of
+      existing federal regulations
+
+11. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Building the wall has long been one of Trump’s signature promises, but its
+      impacts beyond political symbolism are unclear. Illegal border crossings
+      have plunged since Trump took office in January amid a string of orders on
+      immigration, including the suspension of the asylum system. Simply ending
+      asylum meant tens of thousands of people who would’ve surrendered to law
+      enforcement instead of trying to avoid capture didn’t even attempt to
+      cross. Plus, the effectiveness of border walls is hotly debated, even in
+      populated areas where barriers tend to be heavily reinforced. Human
+      smugglers, often linked to drug cartels, have used tunnels, ladders and
+      power tools to cross walls.
+
+12. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.
+
+13. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Two trends make domestic production an urgent priority. The first is the
+      high cost of energy, which is burdening all of us. In the last four years,
+      gasoline, electricity, and natural gas prices have risen by nearly a
+      third. Removing restrictions on our energy companies can bring down these
+      ballooning costs
+
+14. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Substantively, the most important part of the Republican education
+      platform might be its support for universal school choice. In about a
+      dozen states, Republicans have recently created or expanded education
+      savings account (ESA) programs that make public funds available to pay for
+      private school or other educational expenses. Critics of these
+      programs—myself included—argue that they violate our basic traditions,
+      benefit the wealthy at the expense of others, and are not well supported
+      by research.
+
+15. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Republicans broadly favor punitive approaches to immigration policy, such
+      as increasing deportations of people who are in the country illegally
+      (89%) and putting more severe penalties on business for hiring people
+      without legal work authorization (85%). Expanding the 700 miles of border
+      wall and fencing with Mexico is also a very popular policy among
+      Republicans (87% support), and as the 2023 Chicago Council Survey found,
+      majorities of Republicans (79%) favor using US troops to stop immigrants
+      from coming into the US from Mexico. Finally, Republicans are divided over
+      whether the US should make it easier for people fleeing violence in their
+      home countries to legally immigrate to the United States, with similar
+      proportions supporting (49%) and opposing (50%) such a policy.

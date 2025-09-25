@@ -1,0 +1,85 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: economic_policy==================================================
+Łącznie próbek: 56Poprawnych klasyfikacji: 54 (96.43%)Błędnych klasyfikacji: 2 (3.57%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      New Democrats are committed to advancing real solutions that reduce health
+      care costs for families and seniors, increase choices for consumers, and
+      encourage participation by the young and healthy. To stabilize health
+      insurance markets and bring down the cost of healthcare for all Americans,
+      New Dems believe we must create a permanent reinsurance program, reduce
+      healthcare costs for low-income Americans, promote greater insurance
+      coverage, create a greater number of affordable insurance options, and
+      improve the marketplaces. New Democrats have sought ways to work with
+      Republicans for years to fix what is not working and strengthen the ACA,
+      but Republican actions continue to raise questions about their commitment
+      to join these efforts.
+
+2. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      Making sure more kids have access to health care should be one of the
+      least controversial actions we can take as a nation, and the boost to
+      economic growth is just a cherry on top
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: government_role==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 90 (94.74%)Błędnych klasyfikacji: 5 (5.26%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      In April 2021, Biden set a new national goal to reduce emissions by 50% to
+      52% from 2005 levels by 2030, formalizing it in an updated nationally
+      determined contribution (NDC) under the Paris Agreement. Achieving this
+      goal will be a challenge, but it remains within reach thanks to progress
+      made in 2022 (see #2). The administration must develop a 2035 emissions
+      reduction target by next year, as required by the United Nations Framework
+      Convention on Climate Change (UNFCCC), that builds upon the United States’
+      2030 goal.
+
+2. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      New Democrats are committed to advancing real solutions that reduce health
+      care costs for families and seniors, increase choices for consumers, and
+      encourage participation by the young and healthy. To stabilize health
+      insurance markets and bring down the cost of healthcare for all Americans,
+      New Dems believe we must create a permanent reinsurance program, reduce
+      healthcare costs for low-income Americans, promote greater insurance
+      coverage, create a greater number of affordable insurance options, and
+      improve the marketplaces. New Democrats have sought ways to work with
+      Republicans for years to fix what is not working and strengthen the ACA,
+      but Republican actions continue to raise questions about their commitment
+      to join these efforts.
+
+3. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Meanwhile, President Biden, Vice President Harris, and Democrats across
+      the country are fighting to defend women’s freedom to make their own
+      health care decisions
+
+4. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Liberal Democrats, by contrast, are the least supportive of these
+      restrictive goals while being the most supportive of establishing a path
+      to legalization for undocumented immigrants in the country.
+
+5. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: social_policy==================================================
+Łącznie próbek: 88Poprawnych klasyfikacji: 85 (96.59%)Błędnych klasyfikacji: 3 (3.41%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ progressive a jest ZAKWALIFIKOWANY  jako traditional
+      Liberal Democrats, by contrast, are the least supportive of these
+      restrictive goals while being the most supportive of establishing a path
+      to legalization for undocumented immigrants in the country.
+
+2. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      House Republicans are proposing legislation that would reduce federal
+      taxes by $3.8 trillion over 10 years, with a disproportionate share of tax
+      breaks going to the wealthy. The legislation would partially offset that
+      revenue loss with reduced spending of $1.1 trillion over 10 years—$1.5
+      trillion in spending cuts that include deep and harmful cuts to nutrition
+      assistance and health care for low-income households,
+
+3. POWINNO BYĆ progressive a jest ZAKWALIFIKOWANY  jako traditional
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts

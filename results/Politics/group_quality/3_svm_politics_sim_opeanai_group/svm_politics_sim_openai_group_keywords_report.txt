@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 36       2. strong              : 15  
+ 3. social              : 14       4. role                : 13  
+ 5. programs            : 11       6. public              : 11  
+ 7. pole                : 10       8. represents          : 10  
+ 9. support             : 10      10. collective          : 10  
+11. economic            : 10      12. robust              : 9   
+13. comprehensive       : 9       14. citizens            : 9   
+15. addressing          : 9       16. intervention        : 9   
+17. societal            : 9       18. through             : 9   
+19. belief              : 8       20. society             : 8   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 44       2. personal            : 13  
+ 3. individual          : 12       4. over                : 11  
+ 5. role                : 10       6. pole                : 10  
+ 7. represents          : 10       8. limited             : 10  
+ 9. liberty             : 10      10. economic            : 10  
+11. weak                : 9       12. local               : 9   
+13. authority           : 9       14. minimal             : 8   
+15. characterized       : 8       16. decentralized       : 8   
+17. freedom             : 8       18. federal             : 8   
+19. power               : 7       20. private             : 7   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 35       2. rights              : 17  
+ 3. access              : 14       4. healthcare          : 13  
+ 5. support             : 12       6. policies            : 12  
+ 7. groups              : 12       8. government          : 11  
+ 9. protections         : 11      10. reproductive        : 10  
+11. marginalized        : 10      12. policy              : 10  
+13. pole                : 9       14. progressive         : 9   
+15. universal           : 9       16. lgbtq               : 9   
+17. gun                 : 9       18. represents          : 8   
+19. expanded            : 8       20. equality            : 8   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. social              : 37       2. traditional         : 20  
+ 3. values              : 17       4. rights              : 16  
+ 5. religious           : 16       6. policy              : 15  
+ 7. government          : 11       8. constitutional      : 10  
+ 9. institutions        : 10      10. pole                : 9   
+11. over                : 9       12. family              : 9   
+13. moral               : 9       14. established         : 9   
+15. cultural            : 9       16. represents          : 8   
+17. characterized       : 7       18. second              : 7   
+19. amendment           : 7       20. protections         : 7   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 31       2. protections         : 12  
+ 3. market              : 12       4. government          : 11  
+ 5. inequality          : 11       6. wealth              : 11  
+ 7. progressive         : 10       8. taxation            : 10  
+ 9. public              : 10      10. investment          : 10  
+11. infrastructure      : 10      12. prosperity          : 10  
+13. policies            : 9       14. strong              : 9   
+15. fair                : 9       16. labor               : 9   
+17. rights              : 9       18. policy              : 8   
+19. perspective         : 8       20. address             : 8   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 42       2. government          : 21  
+ 3. market              : 18       4. business            : 18  
+ 5. growth              : 14       6. prosperity          : 12  
+ 7. freedom             : 12       8. through             : 11  
+ 9. minimal             : 10      10. private             : 10  
+11. views               : 9       12. deregulation        : 8   
+13. wealth              : 8       14. individual          : 8   
+15. pole                : 7       16. represents          : 7   
+17. perspective         : 7       18. emphasizes          : 7   
+19. free                : 7       20. tax                 : 7   

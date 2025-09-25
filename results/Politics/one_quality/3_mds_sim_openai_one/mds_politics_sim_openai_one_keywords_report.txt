@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 4        2. role                : 2   
+ 3. strong              : 2        4. social              : 2   
+ 5. economic            : 2        6. pole                : 1   
+ 7. represents          : 1        8. belief              : 1   
+ 9. play                : 1       10. central             : 1   
+11. active              : 1       12. society             : 1   
+13. robust              : 1       14. regulation          : 1   
+15. businesses          : 1       16. comprehensive       : 1   
+17. support             : 1       18. citizens            : 1   
+19. key                 : 1       20. indicators          : 1   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 4        2. individual          : 2   
+ 3. liberty             : 2        4. over                : 2   
+ 5. role                : 1        6. weak                : 1   
+ 7. pole                : 1        8. represents          : 1   
+ 9. belief              : 1       10. minimal             : 1   
+11. involvement         : 1       12. produces            : 1   
+13. optimal             : 1       14. societal            : 1   
+15. outcomes            : 1       16. characterized       : 1   
+17. limited             : 1       18. regulation          : 1   
+19. businesses          : 1       20. reduced             : 1   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 3        2. services            : 3   
+ 3. policies            : 2        4. rights              : 2   
+ 5. healthcare          : 2        6. access              : 2   
+ 7. individuals         : 2        8. regardless          : 2   
+ 9. pole                : 1       10. represents          : 1   
+11. support             : 1       12. progressive         : 1   
+13. expand              : 1       14. characterized       : 1   
+15. advocacy            : 1       16. universal           : 1   
+17. strong              : 1       18. reproductive        : 1   
+19. women               : 1       20. equal               : 1   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. rights              : 3        2. government          : 2   
+ 3. social              : 2        4. values              : 2   
+ 5. opposes             : 2        6. constitutional      : 2   
+ 7. religious           : 2        8. rather              : 2   
+ 9. policies            : 2       10. pole                : 1   
+11. represents          : 1       12. opposition          : 1   
+13. intervention        : 1       14. matters             : 1   
+15. characterized       : 1       16. pro-life            : 1   
+17. positions           : 1       18. prioritize          : 1   
+19. unborn              : 1       20. fetuses             : 1   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 3        2. policies            : 2   
+ 3. create              : 2        4. outcomes            : 2   
+ 5. policy              : 1        6. beneficial          : 1   
+ 7. pole                : 1        8. represents          : 1   
+ 9. view                : 1       10. interventionist     : 1   
+11. positive            : 1       12. characterized       : 1   
+13. support             : 1       14. progressive         : 1   
+15. taxation            : 1       16. higher              : 1   
+17. incomes             : 1       18. robust              : 1   
+19. worker              : 1       20. protections         : 1   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 5        2. government          : 2   
+ 3. market              : 2        4. through             : 2   
+ 5. policy              : 1        6. harmful             : 1   
+ 7. pole                : 1        8. represents          : 1   
+ 9. belief              : 1       10. excessive           : 1   
+11. intervention        : 1       12. damages             : 1   
+13. prosperity          : 1       14. characterized       : 1   
+15. opposition          : 1       16. high                : 1   
+17. taxation            : 1       18. burdensome          : 1   
+19. regulations         : 1       20. spending            : 1   

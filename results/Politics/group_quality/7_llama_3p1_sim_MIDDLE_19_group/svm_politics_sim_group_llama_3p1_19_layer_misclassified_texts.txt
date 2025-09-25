@@ -1,0 +1,147 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: economic_policy==================================================
+Łącznie próbek: 56Poprawnych klasyfikacji: 53 (94.64%)Błędnych klasyfikacji: 3 (5.36%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ market a jest ZAKWALIFIKOWANY  jako regulated
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+2. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+3. POWINNO BYĆ market a jest ZAKWALIFIKOWANY  jako regulated
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: government_role==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 85 (89.47%)Błędnych klasyfikacji: 10 (10.53%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Advances in personal liberty in the free world advance equality and
+      inclusion; capitalism is diverse, socialism a dictatorship of conformity.
+      For free-marketeers, the nostrum that diversity is an advantage is not
+      only defensible but self-evident. It deserves better than to be
+      surrendered as a concept and term to the identarian Left
+
+2. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Liberal Democrats, by contrast, are the least supportive of these
+      restrictive goals while being the most supportive of establishing a path
+      to legalization for undocumented immigrants in the country.
+
+3. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      A majority of Republicans (65%) support police using military weapons and
+      armored vehicles
+
+4. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans are more likely than Democrats to support organized prayer in
+      public schools and to oppose the legal recognition of equal rights for
+      gays and lesbians (see gay rights movement). Regarding foreign policy, the
+      Republican Party traditionally has supported a strong national defense and
+      the aggressive pursuit of U.S. national security interests, even when it
+      entails acting unilaterally or in opposition to the views of the
+      international community.
+
+5. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+6. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      If we don't have a Border, we don't have a Country. Restoring sensible
+      Border Security and Immigration Policy requires many steps, all of which
+      would have been and indeed were taken for granted by prior Generations as
+      obviously necessary and good.
+
+7. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Conservative Republicans are the most likely to express strong support for
+      more restrictive immigration goals such as increased border security and
+      increased deportations, even when compared with others in their party
+
+8. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+9. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.
+
+10. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans often frame energy policy within the context of national
+      security, emphasizing the need for a resilient and independent energy
+      system. Hydropower’s ability to provide baseload power and enhance grid
+      stability aligns with these goals. Moreover, its role in managing water
+      resources, such as flood control, irrigation, and navigation, adds another
+      layer of strategic importance.
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: social_policy==================================================
+Łącznie próbek: 88Poprawnych klasyfikacji: 86 (97.73%)Błędnych klasyfikacji: 2 (2.27%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ progressive a jest ZAKWALIFIKOWANY  jako traditional
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+2. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.

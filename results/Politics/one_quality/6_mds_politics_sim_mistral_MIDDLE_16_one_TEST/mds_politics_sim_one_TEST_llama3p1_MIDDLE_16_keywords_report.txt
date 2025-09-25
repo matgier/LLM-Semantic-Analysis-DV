@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 3        2. social              : 3   
+ 3. support             : 2        4. role                : 1   
+ 5. strong              : 1        6. pole                : 1   
+ 7. represents          : 1        8. belief              : 1   
+ 9. active              : 1       10. intervention        : 1   
+11. necessary           : 1       12. societal            : 1   
+13. wellbeing           : 1       14. characterized       : 1   
+15. robust              : 1       16. regulation          : 1   
+17. businesses          : 1       18. comprehensive       : 1   
+19. programs            : 1       20. centralized         : 1   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 4        2. individual          : 2   
+ 3. liberty             : 2        4. over                : 2   
+ 5. role                : 1        6. weak                : 1   
+ 7. pole                : 1        8. represents          : 1   
+ 9. belief              : 1       10. minimal             : 1   
+11. involvement         : 1       12. produces            : 1   
+13. optimal             : 1       14. societal            : 1   
+15. outcomes            : 1       16. characterized       : 1   
+17. limited             : 1       18. regulation          : 1   
+19. businesses          : 1       20. reduced             : 1   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 4        2. policy              : 2   
+ 3. healthcare          : 2        4. rights              : 2   
+ 5. while               : 2        6. across              : 2   
+ 7. policies            : 2        8. through             : 2   
+ 9. governmental        : 2       10. progressive         : 1   
+11. stance              : 1       12. advocates           : 1   
+13. government-funded   : 1       14. systems             : 1   
+15. make                : 1       16. health              : 1   
+17. services            : 1       18. accessible          : 1   
+19. citizens            : 1       20. regardless          : 1   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. rights              : 3        2. government          : 2   
+ 3. social              : 2        4. values              : 2   
+ 5. opposes             : 2        6. constitutional      : 2   
+ 7. religious           : 2        8. rather              : 2   
+ 9. policies            : 2       10. pole                : 1   
+11. represents          : 1       12. opposition          : 1   
+13. intervention        : 1       14. matters             : 1   
+15. characterized       : 1       16. pro-life            : 1   
+17. positions           : 1       18. prioritize          : 1   
+19. unborn              : 1       20. fetuses             : 1   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 4        2. protections         : 2   
+ 3. public              : 2        4. market              : 2   
+ 5. approach            : 1        6. favoring            : 1   
+ 7. wealth              : 1        8. redistribution      : 1   
+ 9. through             : 1       10. graduated           : 1   
+11. tax                 : 1       12. structures          : 1   
+13. high-income         : 1       14. earners             : 1   
+15. labor               : 1       16. including           : 1   
+17. collective          : 1       18. bargaining          : 1   
+19. rights              : 1       20. living              : 1   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. minimal             : 2        2. business            : 2   
+ 3. programs            : 2        4. collective          : 2   
+ 5. economic            : 2        6. approach            : 1   
+ 7. economics           : 1        8. advocates           : 1   
+ 9. unrestricted        : 1       10. free                : 1   
+11. markets             : 1       12. governmental        : 1   
+13. oversight           : 1       14. emphasizing         : 1   
+15. tax                 : 1       16. reductions          : 1   
+17. particularly        : 1       18. benefiting          : 1   
+19. higher-income       : 1       20. individuals         : 1   

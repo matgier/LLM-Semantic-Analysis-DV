@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 29       2. social              : 18  
+ 3. citizens            : 11       4. welfare             : 11  
+ 5. economic            : 11       6. strong              : 11  
+ 7. collective          : 10       8. through             : 10  
+ 9. intervention        : 10      10. role                : 10  
+11. public              : 10      12. programs            : 9   
+13. necessary           : 8       14. support             : 8   
+15. comprehensive       : 8       16. society             : 8   
+17. equality            : 7       18. services            : 7   
+19. societal            : 7       20. active              : 7   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 32       2. individual          : 12  
+ 3. minimal             : 11       4. freedom             : 10  
+ 5. private             : 10       6. authority           : 10  
+ 7. liberty             : 9        8. personal            : 9   
+ 9. economic            : 8       10. political           : 7   
+11. limited             : 7       12. functions           : 7   
+13. power               : 7       14. emphasizing         : 6   
+15. social              : 6       16. spending            : 6   
+17. federal             : 6       18. while               : 6   
+19. affairs             : 5       20. supporting          : 5   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 26       2. policies            : 15  
+ 3. healthcare          : 15       4. access              : 14  
+ 5. rights              : 13       6. government          : 13  
+ 7. through             : 11       8. services            : 10  
+ 9. lgbtq               : 9       10. including           : 9   
+11. equal               : 8       12. protections         : 8   
+13. ensure              : 8       14. progressive         : 8   
+15. reproductive        : 8       16. marginalized        : 8   
+17. comprehensive       : 7       18. women               : 7   
+19. communities         : 7       20. equitable           : 7   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. social              : 21       2. traditional         : 19  
+ 3. religious           : 18       4. moral               : 17  
+ 5. life                : 13       6. family              : 13  
+ 7. values              : 12       8. cultural            : 11  
+ 9. structures          : 10      10. government          : 10  
+11. rights              : 9       12. second              : 8   
+13. amendment           : 8       14. established         : 8   
+15. institutions        : 8       16. liberty             : 7   
+17. perspective         : 7       18. policies            : 7   
+19. over                : 7       20. personal            : 7   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 36       2. public              : 11  
+ 3. prosperity          : 11       4. market              : 11  
+ 5. protections         : 11       6. policies            : 10  
+ 7. progressive         : 10       8. government          : 10  
+ 9. through             : 10      10. higher              : 9   
+11. minimum             : 9       12. taxation            : 9   
+13. wealth              : 9       14. inequality          : 8   
+15. unions              : 8       16. infrastructure      : 8   
+17. labor               : 8       18. investment          : 7   
+19. ensure              : 7       20. policy              : 7   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 40       2. government          : 20  
+ 3. through             : 16       4. business            : 15  
+ 5. market              : 15       6. minimal             : 11  
+ 7. individual          : 10       8. freedom             : 10  
+ 9. growth              : 9       10. free                : 9   
+11. tax                 : 9       12. prosperity          : 9   
+13. limited             : 8       14. intervention        : 8   
+15. reduced             : 7       16. approach            : 6   
+17. regulation          : 6       18. competition         : 6   
+19. entrepreneurship    : 5       20. interference        : 5   

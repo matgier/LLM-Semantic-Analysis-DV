@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 3        2. strong              : 2   
+ 3. role                : 1        4. pole                : 1   
+ 5. represents          : 1        6. belief              : 1   
+ 7. active              : 1        8. intervention        : 1   
+ 9. necessary           : 1       10. societal            : 1   
+11. wellbeing           : 1       12. characterized       : 1   
+13. robust              : 1       14. regulations         : 1   
+15. expanded            : 1       16. public              : 1   
+17. services            : 1       18. centralized         : 1   
+19. authority           : 1       20. key                 : 1   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 4        2. role                : 1   
+ 3. weak                : 1        4. pole                : 1   
+ 5. represents          : 1        6. belief              : 1   
+ 7. minimal             : 1        8. presence            : 1   
+ 9. optimal             : 1       10. societal            : 1   
+11. flourishing         : 1       12. characterized       : 1   
+13. limited             : 1       14. regulations         : 1   
+15. privatized          : 1       16. services            : 1   
+17. decentralized       : 1       18. authority           : 1   
+19. key                 : 1       20. indicators          : 1   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 3        2. rights              : 3   
+ 3. support             : 2        4. protections         : 2   
+ 5. healthcare          : 2        6. gun                 : 2   
+ 7. safety              : 2        8. individual          : 2   
+ 9. policy              : 1       10. progressive         : 1   
+11. pole                : 1       12. represents          : 1   
+13. expansive           : 1       14. including           : 1   
+15. universal           : 1       16. access              : 1   
+17. reproductive        : 1       18. freedom             : 1   
+19. without             : 1       20. significant         : 1   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. social              : 3        2. traditional         : 3   
+ 3. policy              : 2        4. moral               : 2   
+ 5. opposition          : 2        6. rights              : 2   
+ 7. pole                : 1        8. represents          : 1   
+ 9. adherence           : 1       10. established         : 1   
+11. frameworks          : 1       12. strict              : 1   
+13. limitations         : 1       14. change              : 1   
+15. characterized       : 1       16. abortion            : 1   
+17. few                 : 1       18. no                  : 1   
+19. exceptions          : 1       20. unrestricted        : 1   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 4        2. social              : 3   
+ 3. market              : 3        4. policy              : 2   
+ 5. active              : 2        6. government          : 2   
+ 7. through             : 2        8. comprehensive       : 2   
+ 9. oversight           : 2       10. intervention        : 2   
+11. wealth              : 2       12. redistribution      : 2   
+13. labor               : 2       14. protections         : 2   
+15. rights              : 2       16. worker              : 2   
+17. public              : 2       18. regulated           : 1   
+19. pole                : 1       20. represents          : 1   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 5        2. business            : 4   
+ 3. market              : 3        4. freedom             : 3   
+ 5. private             : 3        6. solutions           : 2   
+ 7. minimal             : 2        8. government          : 2   
+ 9. approach            : 2       10. investment          : 2   
+11. preference          : 2       12. individual          : 2   
+13. reduced             : 2       14. prosperity          : 2   
+15. policy              : 1       16. free                : 1   
+17. pole                : 1       18. represents          : 1   
+19. commitment          : 1       20. market-driven       : 1   

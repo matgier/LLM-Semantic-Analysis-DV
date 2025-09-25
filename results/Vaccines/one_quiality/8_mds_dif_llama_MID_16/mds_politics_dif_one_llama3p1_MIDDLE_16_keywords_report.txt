@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 4        2. social              : 3   
+ 3. disadvantaged       : 2        4. serves              : 1   
+ 5. necessary           : 1        6. institution         : 1   
+ 7. regulate            : 1        8. business            : 1   
+ 9. activities          : 1       10. provide             : 1   
+11. support             : 1       12. citizens            : 1   
+13. need                : 1       14. work                : 1   
+15. toward              : 1       16. collective          : 1   
+17. welfare             : 1       18. through             : 1   
+19. strategic           : 1       20. involvement         : 1   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. individual          : 2        2. political           : 1   
+ 3. stance              : 1        4. favoring            : 1   
+ 5. restrained          : 1        6. limited             : 1   
+ 7. government          : 1        8. minimal             : 1   
+ 9. intervention        : 1       10. economic            : 1   
+11. affairs             : 1       12. emphasizing         : 1   
+13. liberty             : 1       14. personal            : 1   
+15. freedom             : 1       16. supporting          : 1   
+17. tax                 : 1       18. reduction           : 1   
+19. policies            : 1       20. across              : 1   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. policies            : 3        2. healthcare          : 2   
+ 3. access              : 2        4. equal               : 2   
+ 5. protection          : 2        6. public              : 2   
+ 7. through             : 2        8. progressive         : 1   
+ 9. social              : 1       10. prioritize          : 1   
+11. expanded            : 1       12. universal           : 1   
+13. fundamental         : 1       14. right               : 1   
+15. rather              : 1       16. privilege           : 1   
+17. government          : 1       18. ensuring            : 1   
+19. affordable          : 1       20. coverage            : 1   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. social              : 5        2. cultural            : 3   
+ 3. religious           : 3        4. traditional         : 2   
+ 5. institutions        : 2        6. family              : 2   
+ 7. national            : 2        8. values              : 2   
+ 9. traditions          : 2       10. policy              : 1   
+11. pole                : 1       12. represents          : 1   
+13. adherence           : 1       14. established         : 1   
+15. norms               : 1       16. characterized       : 1   
+17. support             : 1       18. structures          : 1   
+19. pro-life            : 1       20. positions           : 1   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 3        2. policies            : 2   
+ 3. inequality          : 2        4. workers             : 2   
+ 5. economy             : 2        6. pole                : 1   
+ 7. represents          : 1        8. support             : 1   
+ 9. actively            : 1       10. address             : 1   
+11. characterized       : 1       12. advocacy            : 1   
+13. higher              : 1       14. minimum             : 1   
+15. wages               : 1       16. stronger            : 1   
+17. unions              : 1       18. progressive         : 1   
+19. taxation            : 1       20. high-income         : 1   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 3        2. market              : 2   
+ 3. government          : 2        4. free                : 1   
+ 5. approaches          : 1        6. emphasize           : 1   
+ 7. liberty             : 1        8. through             : 1   
+ 9. tax                 : 1       10. reduction           : 1   
+11. across              : 1       12. income              : 1   
+13. levels              : 1       14. regulatory          : 1   
+15. streamlining        : 1       16. reduce              : 1   
+17. compliance          : 1       18. burdens             : 1   
+19. strong              : 1       20. property            : 1   

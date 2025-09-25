@@ -1,0 +1,10 @@
+
+===== TABELA WYNIKÓW METRYK =====
+Kategoria                           | CTTR       | Entropia   | Liczba słów  | Unikalne słowa 
+------------------------------------------------------------------------------------------
+vaccination_obligation_beneficial   | 8.4746     | 7.7464     | 749          | 328            
+vaccination_obligation_harmful      | 8.5516     | 7.8296     | 828          | 348            
+vaccine_efficacy_effective          | 7.4728     | 7.6785     | 753          | 290            
+vaccine_efficacy_ineffective        | 8.7045     | 7.8960     | 745          | 336            
+vaccine_safety_beneficial           | 6.6501     | 7.3932     | 701          | 249            
+vaccine_safety_harmful              | 8.2365     | 7.8393     | 750          | 319            

@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== vaccine_safety_beneficial ===
+20 słów kluczowych:
+ 1. vaccines            : 2        2. through             : 2   
+ 3. safety              : 2        4. scientifically      : 1   
+ 5. proven              : 1        6. safe                : 1   
+ 7. medical             : 1        8. interventions       : 1   
+ 9. undergo             : 1       10. rigorous            : 1   
+11. testing             : 1       12. multiple            : 1   
+13. clinical            : 1       14. trials              : 1   
+15. involving           : 1       16. tens                : 1   
+17. thousands           : 1       18. participants        : 1   
+19. adverse             : 1       20. effects             : 1   
+
+=== vaccine_safety_harmful ===
+20 słów kluczowych:
+ 1. vaccines            : 3        2. safety              : 3   
+ 3. products            : 2        4. despite             : 2   
+ 5. constitute          : 1        6. inherently          : 1   
+ 7. dangerous           : 1        8. medical             : 1   
+ 9. unacceptable        : 1       10. profiles            : 1   
+11. industry            : 1       12. claims              : 1   
+13. dramatic            : 1       14. rise                : 1   
+15. reported            : 1       16. deaths              : 1   
+17. serious             : 1       18. injuries            : 1   
+19. following           : 1       20. covid-19            : 1   
+
+=== vaccine_efficacy_effective ===
+20 słów kluczowych:
+ 1. vaccines            : 3        2. protection          : 2   
+ 3. disease             : 2        4. preventing          : 2   
+ 5. vaccinated          : 2        6. populations         : 2   
+ 7. deliver             : 1        8. proven              : 1   
+ 9. against             : 1       10. demonstrating       : 1   
+11. high                : 1       12. effectiveness       : 1   
+13. infection           : 1       14. reducing            : 1   
+15. hospitalizations    : 1       16. deaths              : 1   
+17. clinical            : 1       18. trials              : 1   
+19. confirmed           : 1       20. 90                  : 1   
+
+=== vaccine_efficacy_ineffective ===
+20 słów kluczowych:
+ 1. vaccines            : 3        2. despite             : 2   
+ 3. administration      : 2        4. rates               : 2   
+ 5. interventions       : 2        6. provide             : 2   
+ 7. protection          : 2        8. promised            : 2   
+ 9. total               : 1       10. failures            : 1   
+11. show                : 1       12. no                  : 1   
+13. meaningful          : 1       14. benefits            : 1   
+15. widespread          : 1       16. evidenced           : 1   
+17. persistent          : 1       18. case                : 1   
+19. numbers             : 1       20. regardless          : 1   
+
+=== vaccination_obligation_beneficial ===
+20 słów kluczowych:
+ 1. disease             : 3        2. mandates            : 2   
+ 3. benefits            : 2        4. individuals         : 2   
+ 5. populations         : 2        6. health              : 2   
+ 7. vaccine             : 1        8. establish           : 1   
+ 9. crucial             : 1       10. social              : 1   
+11. contract            : 1       12. creates             : 1   
+13. protective          : 1       14. herd                : 1   
+15. immunity            : 1       16. extending           : 1   
+17. beyond              : 1       18. safeguard           : 1   
+19. vulnerable          : 1       20. cannot              : 1   
+
+=== vaccination_obligation_harmful ===
+20 słów kluczowych:
+ 1. personal            : 3        2. medical             : 3   
+ 3. mandates            : 2        4. impositions         : 2   
+ 5. rights              : 2        6. fundamental         : 2   
+ 7. individual          : 2        8. health              : 2   
+ 9. no                  : 2       10. vaccine             : 1   
+11. constitute          : 1       12. unjustified         : 1   
+13. bodily              : 1       14. autonomy            : 1   
+15. violate             : 1       16. healthcare          : 1   
+17. freedom             : 1       18. requirements        : 1   
+19. contradict          : 1       20. principle           : 1   

@@ -1,0 +1,333 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccination_obligation==================================================
+Łącznie próbek: 117Poprawnych klasyfikacji: 100 (85.47%)Błędnych klasyfikacji: 17 (14.53%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      But once the novel coronavirus was discovered and sequenced in Wuhan,
+      China, everything changed, nearly overnight. Within days, mRNA coronavirus
+      vaccines were being widely acknowledged as one of our best bets against
+      the virus. Scientists started using the technology to develop shots — on a
+      breathtakingly rapid timeline. Suddenly, it seemed, everyone wanted to
+      know who was responsible for this promising technique. If Malone is right
+      about one thing pertaining to the mRNA vaccines, Geall said, it's that it
+      is still important to keep researching these products and answering any
+      yet unanswered questions about them, in addition to improving how and when
+      they're used. "Would I have preferred that there had been 15 years of
+      research and safety generation through clinical trials? Absolutely," Geall
+      said. "But that wasn't an option during the pandemic." So he, and all the
+      other scientists interviewed for this article, got vaccinated with the
+      mRNA vaccines that they, Malone, and many others helped create over a
+      30-year period.
+
+2. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      One vaccine ingredient that has been studied specifically is thimerosal.
+      Thimerosal is a mercury-based preservative used to prevent germs (like
+      bacteria and fungi) from contaminating multidose vials of vaccines.
+      Research shows that thimerosal does not cause ASD. In fact, a 2004
+      scientific review by the IOM concluded that "the evidence favors rejection
+      of a causal relationship between thimerosal–containing vaccines and
+      autism."
+
+3. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      But clinical trial results demonstrate the vaccine’s safety in young
+      children. Research published in the New England Journal of Medicine (NEJM)
+      and funded by BNT162b2 makers Pfizer and BioNTech found no serious
+      vaccine-related adverse effects among the 1517 fully vaccinated 5- to
+      11-year-old participants. After a median 2.3-month follow-up, the
+      researchers concluded that BNT162b2 is safe, immunogenic, and effective
+      for the young age group they studied.
+
+4. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Some people have had concerns that ASD might be linked to the vaccines
+      children receive, but studies have shown that there is no link between
+      receiving vaccines and developing ASD. The National Academy of Medicine,
+      formerly known as Institute of Medicine, reviewed the safety of 8 vaccines
+      to children and adults. The review found that with rare exceptions, these
+      vaccines are very safe.
+
+5. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Based on the extensive review presented, GACVS concluded that no evidence
+      exists of a causal association between MMR vaccine and autism or autistic
+      disorders. The Committee believes the matter is likely to be clarified by
+      a better understanding of the causes of autism. GACVS also concluded that
+      there is no evidence to support the routine use of monovalent measles,
+      mumps and rubella vaccines over the combined vaccine, a strategy which
+      would put children at increased risk of incomplete immunization. Thus,
+      GACVS recommends that there should be no change in current vaccination
+      practices with MMR.
+
+6. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Major medical organizations state that vaccines are safe. These
+      organizations include: CDC, Food and Drug Administration (FDA), Institute
+      of Medicine (IOM), American Medical Association (AMA), American Academy of
+      Pediatrics (AAP), UNICEF, US Department of Health and Human Services
+      (HHS), World Health Organization (WHO), Public Health Agency of Canada,
+      Canadian Paediatric Society, National Foundation for Infectious Diseases
+      (NFID), and American Academy of Family Physicians (AAFP)
+
+7. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Most diseases that vaccines target are relatively harmless in many cases,
+      thus making vaccines unnecessary. The chickenpox is often just a rash with
+      blisters and can be treated with acetaminophen, cool compresses, and
+      calamine lotion. The measles is normally a rash accompanied by a fever and
+      runny nose and can be treated with rest and fluids. Rubella is often just
+      a virus with a rash and low fever and can be treated with acetaminophen.
+      Rotavirus can normally be treated with hydration and probiotics.
+
+8. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Vaccinated individuals have accounted for 73 percent of all covid-19 cases
+      in England over the past month and are the obvious driving factor for
+      viral transmission. The vaccinated are also the ones crowding the
+      hospitals. There were 2,341 unvaccinated hospitalizations last month (a
+      number that is falling rapidly). However, there were 6,889
+      hospitalizations for the vaccinated (a number that is rapidly increasing).
+      Most of these hospitalizations are occurring in triply vaccinated
+      individuals (4,936). In all, 75 percent of all Covid-19 hospitalizations
+      are observed in the vaccinated. When it comes to fatalities, the
+      unvaccinated cohort is improving. The unvaccinated accounted for 559
+      deaths in the last reporting period and the vaccinated accounted for 4,302
+      deaths, with the majority of fatalities occurring in the triply vaccinated
+      (3,120). The vaccinated population now accounts for 90 percent of the
+      deaths overall. The triply vaccinated account for 4 of every 5 of these
+      fatalities! To put these figures in perspective, take a look at the Week
+      51 Vaccine Surveillance Report for 2021. From November 22 to December 19,
+      2021, there were 889 unvaccinated deaths and 2,913 vaccinated deaths. This
+      shows that the fatality rate for the unvaccinated population is going
+      down, while the fatality rate for the vaccinated population is getting
+      severely worse. So, why hasn’t a strict moratorium been placed on this
+      destructive vaccine?
+
+9. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      It is true that the production of all three of the leading candidates –
+      the newly-approved Pfizer/BioNTech jab, Moderna and the Oxford/AstraZeneca
+      vaccine – have achieved in less than ten months what usually takes a
+      decade. But, despite the speed, none of these vaccine trials have actually
+      skipped any steps. Instead, some of the stages overlapped. For example,
+      phase three of the trial – when tens of thousands of trial participants
+      were given the jab – commenced when phase two – which saw hundreds
+      receiving the vaccine – was still ongoing. At a Downing Street press
+      conference on Wednesday, Dr June Raine – the head of the UK’s regulatory
+      agency which has given the Pfizer treatment the thumbs up – said no
+      corners have been cut. “If you’re climbing a mountain, you prepare and
+      prepare. We started that in June. By the time the interim results became
+      available on 10 November we were at base camp,” she said. “And then when
+      we got the final analysis we were ready for that last sprint that takes us
+      to today.” Vaccine trials are usually held up by long periods of inertia –
+      waiting for funding, resources and permissions to come through. But,
+      because of the huge global stake in ending the pandemic, there was no
+      waiting game. A huge amount of funding and support were poured into
+      vaccine efforts across the world – and that’s brought us to where we are
+      today. As for side effects, they usually show up in trials quickly after
+      vaccination – while longer-term effects are very rare. So you don’t have
+      anything to worry about on that front, either.
+
+10. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Thalidomide is a drug that was marketed as a treatment for morning
+      sickness in pregnant women in the late 1950s and early 60s and later
+      caused birth defects. This has understandably prompted distrust in
+      government guidance on public health issues. However, Thalidomide is not
+      comparable to a vaccine. Thalidomide went directly into the bloodstream,
+      whereas the Covid-19 vaccine gives antibodies which help fight off the
+      virus. Thalidomide was not properly tested and never went through the
+      monitoring system as the coronavirus vaccine has done. Dr Ruth Blue, a
+      consultant for the Thalidomide Society, said it was “a bit insulting that
+      suddenly Thalidomide gets remembered after all these years when it suits
+      anti-vaxxers to have something to compare to — but it isn’t a comparison.
+      “The outcome of Thalidomide completely changed the way drugs are tested
+      and are passed.” She added: “Vaccinations are a really fairly safe form of
+      medicine. They have been around for a very long time. There have been very
+      few problems with vaccinations over the years and it’s not really
+      comparable. They are a tried and tested science and they have saved
+      absolutely millions of lives. “Thalidomide did totally the opposite. It
+      wasn’t tested, it wasn’t tried out and it destroyed millions of lives.”
+
+11. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Parental refusal of vaccines is a growing a concern for the increased
+      occurrence of vaccine preventable diseases in children. A number of
+      studies have looked into the reasons that parents refuse, delay, or are
+      hesitant to vaccinate their child(ren). These reasons vary widely between
+      parents, but they can be encompassed in 4 overarching categories. The 4
+      categories are religious reasons, personal beliefs or philosophical
+      reasons, safety concerns, and a desire for more information from
+      healthcare providers. Parental concerns about vaccines in each category
+      lead to a wide spectrum of decisions varying from parents completely
+      refusing all vaccinations to only delaying vaccinations so that they are
+      more spread out. A large subset of parents admits to having concerns and
+      questions about childhood vaccinations. For this reason, it can be helpful
+      for pharmacists and other healthcare providers to understand the cited
+      reasons for hesitancy so they are better prepared to educate their
+      patients' families. Education is a key player in equipping parents with
+      the necessary information so that they can make responsible immunization
+      decisions for their children.
+
+12. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Some people don’t get flu vaccines for themselves or for their children.
+      There are several reasons for this, including: The flu vaccine doesn’t
+      protect against all strains of the flu. The vaccination needs to be given
+      every year. The vaccination could make them sick, which is false.
+
+13. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      In recent years there has been much controversy surrounding the MMR
+      vaccine. Some people used to think the vaccine - which is a combined
+      treatment against measles, mumps and rubella - could cause autism in
+      children. They decided not to risk letting their child have the vaccine
+      and hoped they would not catch measles, mumps or rubella.
+
+14. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Pharmaceutical industry expert Professor Frank Lichtenberg estimates that
+      the value of a vaccine could reach into the trillions of dollars and says
+      that the need for companies to innovate now is crucial for saving lives.
+      “Not only would a vaccine reduce mortality and hospitalizations, but it
+      would have an incredible impact on economic activity and GDP,” says
+      Lichtenberg, the Courtney C. Brown Professor of Business in the Economics
+      Division. “The value of a vaccine would be incredible—much larger than
+      anything I think we’ve ever seen.”
+
+15. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      What is currently unknown is the ultimate impact of those burdens on
+      future economic activity, which has been curtailed severely by social
+      isolation. “That’s why, if and when a vaccine is developed, which most
+      people expect to happen in the next year and a half,” Lichtenberg says,
+      “the value to society will be in reducing these other burdens, and
+      allowing the economy to get back to normal. Or at least a new normal.”
+      Lichtenberg says it’s important that any new vaccine be fairly priced, but
+      also that it is financially attractive for companies to invest heavily in
+      research. “Given how valuable this would be to the world, providing
+      financial incentives to industry is important,” Lichtenberg says. “We need
+      to develop a safe and effective vaccine as quickly as possible.”
+
+16. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      6. Your kids have set an example. Most children don’t have a choice about
+      getting shots. But why should they be the only one getting stuck with a
+      needle? Want to show them that prevention through vaccination works? “Mom,
+      dad, grandma, and grandpa should get their vaccinations just as children
+      do,” Schaffner says.
+
+17. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      9. You’re going back to college. The downturn has forced many adults back
+      to school. But many colleges require proof of routine vaccinations. You
+      may not have those records. Your parents may not have those records. And
+      your childhood doctor may no longer be practicing. It’s OK to repeat a
+      vaccine. But, Wharton says, it’s “a hassle and cost” that could be
+      prevented by keeping good records.
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccine_efficacy==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 89 (93.68%)Błędnych klasyfikacji: 6 (6.32%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      Most diseases that vaccines target are relatively harmless in many cases,
+      thus making vaccines unnecessary. The chickenpox is often just a rash with
+      blisters and can be treated with acetaminophen, cool compresses, and
+      calamine lotion. The measles is normally a rash accompanied by a fever and
+      runny nose and can be treated with rest and fluids. Rubella is often just
+      a virus with a rash and low fever and can be treated with acetaminophen.
+      Rotavirus can normally be treated with hydration and probiotics.
+
+2. POWINNO BYĆ effective a jest ZAKWALIFIKOWANY  jako ineffective
+      So vaccines are NOT safe by design. Safety by testing ALONE, is an
+      unacceptable strategy for such a safety critical product. And it is too
+      late when the safety problems are detected in the general public, as is
+      the case now and as clearly demonstrated by the Pandemrix induced
+      narcolepsy disaster. The Institute of Medicine (IOM) lamented in 2012 that
+      "for the majority of cases (135 vaccine-adverse event pairs), the evidence
+      was inadequate to accept or reject a causal relationship." The evidence
+      for vaccine safety claims simply does NOT exist. Many epidemiological
+      vaccine safety studies make the basic mistake of declaring "lack of
+      association" because the confidence interval of the odds ratio does not
+      span the null value. These conclusions are simply wrong. Mechanistic
+      evidence clearly demonstrates vaccines cause food allergies, asthma⁠,
+      autism and many autoimmune diseases including type 1 diabetes.
+
+3. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      Research into immunisation has been based on the theory that the benefits
+      of immunisation far outweigh the risks from delayed adverse events and so
+      long term safety studies do not need to be performed. When looking at
+      diabetes—only one potential chronic adverse event—we found that the rise
+      in the prevalence of diabetes may more than offset the expected decline in
+      long term complications of H influenzae meningitis. Thus diabetes induced
+      by vaccine should not be considered a rare potential adverse event. The
+      incidence of many other chronic immunological diseases, including asthma,
+      allergies, and immune mediated cancers, has risen rapidly and may also be
+      linked to immunisation.
+
+4. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      Some people don’t get flu vaccines for themselves or for their children.
+      There are several reasons for this, including: The flu vaccine doesn’t
+      protect against all strains of the flu. The vaccination needs to be given
+      every year. The vaccination could make them sick, which is false.
+
+5. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      2.4.4. Enhancing the Severity of Wild Coronavirus Infection Finally, as
+      with the Dengue virus and several other viruses [34], antibodies to
+      coronaviruses can ultimately aggravate rather than mitigate illness. This
+      is called antibody-dependent enhancement of disease. The underlying
+      mechanisms remain to be elucidated but it is already clear that the net
+      effects are severely detrimental. Attempts to develop vaccines to the
+      original SARS virus, which is closely related to SARS-CoV-2, repeatedly
+      failed due to antibody-dependent enhancement of disease [35–37]. The
+      vaccines induced antibodies, but when the vaccinated animals were
+      subsequently infected with the wild-type virus, they became more ill than
+      the unvaccinated animals, in some cases mortally so [38].
+
+6. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      “We will have a safety profile for only a certain number of months, so if
+      there is a long-term effect after two years, we cannot know,” Brosh said,
+      adding that we could wait two years to discover them, “but then we would
+      have the coronavirus for two more years.” Linial expressed similar
+      sentiments: “Classical vaccines were designed to take 10 years to develop.
+      I don’t think the world can wait for a classical vaccine.” But when asked
+      if she would take the vaccine right away, she responded: “I won’t be
+      taking it immediately – probably not for at least the coming year,” she
+      told the Post. “We have to wait and see whether it really works.”
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccine_safety==================================================
+Łącznie próbek: 104Poprawnych klasyfikacji: 98 (94.23%)Błędnych klasyfikacji: 6 (5.77%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Beyond concerns about side effects, many of the hesitant just don’t have
+      much trust in the vaccines. They may believe that the process for the
+      vaccines was too fast — it was, after all, a record time from conception
+      to mass production. They may note the vaccines aren’t even technically
+      approved by the Food and Drug Administration since the agency has only
+      authorized them for emergency use.
+
+2. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Most diseases that vaccines target are relatively harmless in many cases,
+      thus making vaccines unnecessary. The chickenpox is often just a rash with
+      blisters and can be treated with acetaminophen, cool compresses, and
+      calamine lotion. The measles is normally a rash accompanied by a fever and
+      runny nose and can be treated with rest and fluids. Rubella is often just
+      a virus with a rash and low fever and can be treated with acetaminophen.
+      Rotavirus can normally be treated with hydration and probiotics.
+
+3. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Some people don’t get flu vaccines for themselves or for their children.
+      There are several reasons for this, including: The flu vaccine doesn’t
+      protect against all strains of the flu. The vaccination needs to be given
+      every year. The vaccination could make them sick, which is false.
+
+4. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      In recent years there has been much controversy surrounding the MMR
+      vaccine. Some people used to think the vaccine - which is a combined
+      treatment against measles, mumps and rubella - could cause autism in
+      children. They decided not to risk letting their child have the vaccine
+      and hoped they would not catch measles, mumps or rubella.
+
+5. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      “We will have a safety profile for only a certain number of months, so if
+      there is a long-term effect after two years, we cannot know,” Brosh said,
+      adding that we could wait two years to discover them, “but then we would
+      have the coronavirus for two more years.” Linial expressed similar
+      sentiments: “Classical vaccines were designed to take 10 years to develop.
+      I don’t think the world can wait for a classical vaccine.” But when asked
+      if she would take the vaccine right away, she responded: “I won’t be
+      taking it immediately – probably not for at least the coming year,” she
+      told the Post. “We have to wait and see whether it really works.”
+
+6. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      9. You’re going back to college. The downturn has forced many adults back
+      to school. But many colleges require proof of routine vaccinations. You
+      may not have those records. Your parents may not have those records. And
+      your childhood doctor may no longer be practicing. It’s OK to repeat a
+      vaccine. But, Wharton says, it’s “a hassle and cost” that could be
+      prevented by keeping good records.

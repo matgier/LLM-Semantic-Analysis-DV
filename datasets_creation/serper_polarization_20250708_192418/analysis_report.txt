@@ -1,0 +1,24 @@
+RAPORT ANALIZY POLARYZACJI POLITYCZNEJ
+==================================================
+
+Data zbierania: 2025-07-08T19:23:08.620945
+API użyte: serper.dev
+Łączne zapytania: 30
+Udane zapytania: 30
+Nieudane zapytania: 0
+Sukces rate: 100.0%
+
+ROZKŁAD PERSPEKTYW:
+--------------------
+Perspektywa demokratyczna: 147 wyników
+Perspektywa republikańska: 146 wyników
+Analizy neutralne: 0 wyników
+
+ANALIZA ŹRÓDEŁ:
+---------------
+
+Demokratyczna:
+  : 147 wyników
+
+Republikańska:
+  : 146 wyników

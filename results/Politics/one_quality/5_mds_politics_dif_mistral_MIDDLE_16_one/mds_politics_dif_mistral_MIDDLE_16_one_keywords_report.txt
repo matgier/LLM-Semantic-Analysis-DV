@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 4        2. social              : 3   
+ 3. disadvantaged       : 2        4. serves              : 1   
+ 5. necessary           : 1        6. institution         : 1   
+ 7. regulate            : 1        8. business            : 1   
+ 9. activities          : 1       10. provide             : 1   
+11. support             : 1       12. citizens            : 1   
+13. need                : 1       14. work                : 1   
+15. toward              : 1       16. collective          : 1   
+17. welfare             : 1       18. through             : 1   
+19. strategic           : 1       20. involvement         : 1   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 3        2. political           : 1   
+ 3. perspective         : 1        4. champions           : 1   
+ 5. minimal             : 1        6. presence            : 1   
+ 7. daily               : 1        8. life                : 1   
+ 9. emphasizing         : 1       10. individual          : 1   
+11. liberty             : 1       12. paramount           : 1   
+13. supporting          : 1       14. decentralized       : 1   
+15. authority           : 1       16. through             : 1   
+17. states              : 1       18. rights              : 1   
+19. advocating          : 1       20. substantial         : 1   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 2        2. supporting          : 2   
+ 3. protections         : 2        4. diverse             : 2   
+ 5. framework           : 1        6. universal           : 1   
+ 7. public              : 1        8. healthcare          : 1   
+ 9. systems             : 1       10. ensuring            : 1   
+11. equitable           : 1       12. access              : 1   
+13. services            : 1       14. citizens            : 1   
+15. regardless          : 1       16. socioeconomic       : 1   
+17. status              : 1       18. protecting          : 1   
+19. reproductive        : 1       20. rights              : 1   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. social              : 4        2. traditional         : 2   
+ 3. perspectives        : 2        4. emphasize           : 2   
+ 5. policy              : 2        6. moral               : 2   
+ 7. frameworks          : 2        8. centrality          : 1   
+ 9. conventional        : 1       10. family              : 1   
+11. structures          : 1       12. society             : 1   
+13. foundation          : 1       14. deserving           : 1   
+15. special             : 1       16. protection          : 1   
+17. promotion           : 1       18. through             : 1   
+19. prioritize          : 1       20. sanctity            : 1   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 4        2. approaches          : 2   
+ 3. public              : 2        4. wage                : 2   
+ 5. policies            : 2        6. protections         : 2   
+ 7. ensure              : 2        8. worker              : 2   
+ 9. through             : 2       10. corporate           : 2   
+11. regulated           : 1       12. support             : 1   
+13. progressive         : 1       14. taxation            : 1   
+15. structures          : 1       16. require             : 1   
+17. higher              : 1       18. contributions       : 1   
+19. wealthy             : 1       20. individuals         : 1   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 4        2. market              : 2   
+ 3. through             : 2        4. business            : 2   
+ 5. government          : 2        6. approach            : 1   
+ 7. centered            : 1        8. autonomy            : 1   
+ 9. competitive         : 1       10. enterprise          : 1   
+11. property            : 1       12. rights              : 1   
+13. fiscal              : 1       14. restraint           : 1   
+15. voluntary           : 1       16. exchange            : 1   
+17. entrepreneurial     : 1       18. freedom             : 1   
+19. perspective         : 1       20. supports            : 1   

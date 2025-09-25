@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 4        2. social              : 3   
+ 3. disadvantaged       : 2        4. serves              : 1   
+ 5. necessary           : 1        6. institution         : 1   
+ 7. regulate            : 1        8. business            : 1   
+ 9. activities          : 1       10. provide             : 1   
+11. support             : 1       12. citizens            : 1   
+13. need                : 1       14. work                : 1   
+15. toward              : 1       16. collective          : 1   
+17. welfare             : 1       18. through             : 1   
+19. strategic           : 1       20. involvement         : 1   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 3        2. political           : 1   
+ 3. perspective         : 1        4. champions           : 1   
+ 5. minimal             : 1        6. presence            : 1   
+ 7. daily               : 1        8. life                : 1   
+ 9. emphasizing         : 1       10. individual          : 1   
+11. liberty             : 1       12. paramount           : 1   
+13. supporting          : 1       14. decentralized       : 1   
+15. authority           : 1       16. through             : 1   
+17. states              : 1       18. rights              : 1   
+19. advocating          : 1       20. substantial         : 1   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 3        2. access              : 3   
+ 3. policy              : 2        4. addressing          : 2   
+ 5. including           : 2        6. rights              : 2   
+ 7. protections         : 2        8. government          : 2   
+ 9. through             : 2       10. progressive         : 1   
+11. pole                : 1       12. represents          : 1   
+13. advocacy            : 1       14. forward-looking     : 1   
+15. policies            : 1       16. issues              : 1   
+17. expanded            : 1       18. women               : 1   
+19. unrestricted        : 1       20. abortion            : 1   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. family              : 2        2. preservation        : 2   
+ 3. cultural            : 2        4. national            : 2   
+ 5. moral               : 2        6. social              : 2   
+ 7. matters             : 2        8. traditional         : 2   
+ 9. political           : 1       10. stance              : 1   
+11. upholding           : 1       12. established         : 1   
+13. customs             : 1       14. through             : 1   
+15. religious           : 1       16. values              : 1   
+17. continuity          : 1       18. identity            : 1   
+19. conservatism        : 1       20. perspective         : 1   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 2        2. public              : 2   
+ 3. social              : 2        4. approach            : 1   
+ 5. promotes            : 1        6. robust              : 1   
+ 7. worker              : 1        8. protections         : 1   
+ 9. including           : 1       10. fair                : 1   
+11. wages               : 1       12. workplace           : 1   
+13. safety              : 1       14. standards           : 1   
+15. supports            : 1       16. labor               : 1   
+17. organizations       : 1       18. collective          : 1   
+19. bargaining          : 1       20. rights              : 1   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 3        2. free                : 2   
+ 3. market              : 2        4. prosperity          : 2   
+ 5. growth              : 2        6. government          : 2   
+ 7. private             : 2        8. policy              : 1   
+ 9. perspective         : 1       10. maintains           : 1   
+11. freedom             : 1       12. essential           : 1   
+13. advocates           : 1       14. tax                 : 1   
+15. reduction           : 1       16. stimulate           : 1   
+17. supports            : 1       18. business            : 1   
+19. deregulation        : 1       20. encourage           : 1   

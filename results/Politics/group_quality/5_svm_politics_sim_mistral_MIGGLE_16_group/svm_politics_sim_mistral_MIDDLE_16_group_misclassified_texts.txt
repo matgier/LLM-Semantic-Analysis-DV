@@ -1,0 +1,333 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: economic_policy==================================================
+Łącznie próbek: 56Poprawnych klasyfikacji: 54 (96.43%)Błędnych klasyfikacji: 2 (3.57%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      Immigrants contribute to the strength, vitality, and dynamism of our
+      communities, our economy, and our culture; America is also a sovereign
+      nation whose government has the right and the duty to control our borders
+      and decide who to admit. The best way to harmonize these two traditions is
+      to overhaul our system to make legal immigration work and illegal
+      immigration stop.
+
+2. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: government_role==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 59 (62.11%)Błędnych klasyfikacji: 36 (37.89%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Simply put, it is too hard to raise young children in America today while
+      also working. Improving support for working families with young children
+      is at the forefront of our national conversation. Most parents are in the
+      labor force; however, workplaces and government policies have not caught
+      up to help support working families in today’s environment. The need for
+      consensus solutions is more relevant now than ever with historically high
+      levels of polarization and divided government following the 2022 midterms.
+
+2. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      We believe that no matter where we come from or what our color, most of us
+      want the same things. We want to earn enough to thrive, not just survive,
+      and leave a better future for our kids. We want healthy food and clean
+      water, safe neighborhoods and a safe world. We want to be free.
+
+3. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      As a whole, Democrats are widely concerned about climate change and
+      closely follow science to remain informed about the ongoing development of
+      global warming – especially as the IPCC issued in their most recent report
+      that much of climate change has been aggravated by excessive human
+      activity – such as mass production and increased levels of use in
+      unsustainable transportation. In fact, addressing climate change is a
+      pivotal topic in many agendas for those who identify with the Democratic
+      party. This is because Democrats hold tight to the belief that climate
+      change presents a threat to society, the economy, and the future health of
+      Americans.
+
+4. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      In addition to this, many Democrats view the transition to the use of
+      clean energy and a clean economy as an opportunity to only help the
+      environment out of peril, but to curate new job opportunities for
+      Americans as well to help stimulate the economy and ensure people are
+      brought above the poverty line.
+
+5. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Building a 100 percent clean energy economy requires clear goals to guide
+      its critical decisions. The Biden administration is the first to embrace
+      the goal of reaching net-zero greenhouse gas emissions by midcentury in
+      order to stabilize global temperatures at 1.5 degrees Celsius of warming.*
+      That means that the Biden administration’s interim target—cutting U.S.
+      carbon pollution to half of peak levels by 2030—requires reducing annual
+      carbon pollution nearly four times faster than the Obama administration’s
+      interim target did.** Ambitious policy goals drive ambitious policy
+      change.
+
+6. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Climate change is ultimately viewed by Democrats as one of, if not the
+      most, pivotal topics to be addressed across the United States – and in
+      recent years, Democrats have made sure to make rectifying climate change
+      the priority they believe it should be.
+
+7. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      In the fight against climate change, Democratic AGs play a pivotal role in
+      protecting our planet, people, and economy, while Republican AGs have
+      continued to put ideology and partisan games over our health and economy.
+      Democratic AGs served as vital partners of the Biden-Harris
+      Administration, building on the Dem AGs’ major victories to combat the
+      climate crisis taken during the first Trump administration.
+
+8. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The purpose of the Senate Democrats’ Special Committee on the Climate
+      Crisis is to examine how climate change is affecting the country and the
+      planet and to mobilize action and support for bold climate solutions.
+
+9. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The Deocratic platform has a strong emphasis on the shift to clean energy,
+      which Democrats say can also lower Americans' energy costs and create more
+      jobs. Here's what the goals include: Incentivize investment in
+      transmission line upgrades and new lines, which move wind and solar energy
+      from where they're generated to where people live. Scale up development of
+      clean energy on public lands. Invest in clean energy research and
+      innovation.
+
+10. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      In April 2021, Biden set a new national goal to reduce emissions by 50% to
+      52% from 2005 levels by 2030, formalizing it in an updated nationally
+      determined contribution (NDC) under the Paris Agreement. Achieving this
+      goal will be a challenge, but it remains within reach thanks to progress
+      made in 2022 (see #2). The administration must develop a 2035 emissions
+      reduction target by next year, as required by the United Nations Framework
+      Convention on Climate Change (UNFCCC), that builds upon the United States’
+      2030 goal.
+
+11. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Among all registered voters, climate change is 19th out of 28 issues this
+      year. But when you break it down by political party and ideology, you see
+      that among liberal Democrats—the base of the Democratic Party—climate
+      change is number four. It’s been as high as number two in recent years.
+      That’s unprecedented in American history and goes a long way to helping us
+      understand why some progress has happened
+
+12. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Advances in personal liberty in the free world advance equality and
+      inclusion; capitalism is diverse, socialism a dictatorship of conformity.
+      For free-marketeers, the nostrum that diversity is an advantage is not
+      only defensible but self-evident. It deserves better than to be
+      surrendered as a concept and term to the identarian Left
+
+13. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      With rapidity and stealth, diversity, equity and inclusion (DEI) ideology
+      has come to replace the classical liberal values of merit, fairness and
+      equality (MFE) in the academy, professional organizations, media,
+      government and large technology companies. DEI bureaucracies have
+      mushroomed. Many operate behind the scenes with ambiguous DEI definitions,
+      goals and policies
+
+14. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      New Democrats are committed to advancing real solutions that reduce health
+      care costs for families and seniors, increase choices for consumers, and
+      encourage participation by the young and healthy. To stabilize health
+      insurance markets and bring down the cost of healthcare for all Americans,
+      New Dems believe we must create a permanent reinsurance program, reduce
+      healthcare costs for low-income Americans, promote greater insurance
+      coverage, create a greater number of affordable insurance options, and
+      improve the marketplaces. New Democrats have sought ways to work with
+      Republicans for years to fix what is not working and strengthen the ACA,
+      but Republican actions continue to raise questions about their commitment
+      to join these efforts.
+
+15. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      DFLA is committed to expanding access to health care. Our members take a
+      variety of positions on how to do this. Some support a single-payer model,
+      while others advocate for an expansion of Obamacare. Since we are not
+      policy experts, we do not take a specific position on most health
+      care-related legislation, but we support efforts to advance access. As
+      Whole Life advocates, we believe that good healthcare is a critical Whole
+      Life issue. The United States, for its prosperity, has a disturbingly low
+      life expectancy, with many Americans struggling to pay hospital bills or
+      afford essential medication. We are proud of pro-life Democrat Governor
+      John Bel Edward’s landmark expansion of Medicaid in the state of
+      Louisiana: the only state in the Deep South to do so. Healthcare for
+      pregnant women In particular, we support efforts to provide healthcare to
+      women and families, which can reduce the pressure associating with
+      carrying a child to term. In a world where abortion is illegal, pre-natal,
+      and post-natal healthcare for women is absolutely critical.
+
+16. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Making sure more kids have access to health care should be one of the
+      least controversial actions we can take as a nation, and the boost to
+      economic growth is just a cherry on top
+
+17. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      As we enter into a new era of politics, Democratic pro-choice women at all
+      levels of the ballot will continue to be the leaders we need to protect
+      our fundamental freedoms. Looking at history, women are consistently
+      involved in the fight for progress in this country. But because of the
+      work of EMILYs List over the past 40 years, women at all levels of
+      government are now at the center, leading the most critical fights ahead
+      of us.
+
+18. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Women deserve quality, affordable health care, and to have control over
+      their own bodies. All people deserve access to affordable and
+      comprehensive health care, as well as the dignity, autonomy, and economic
+      security to make the health care decisions that are best for them. Thanks
+      to the Affordable Care Act (ACA), more women and their families have
+      insurance coverage to get the care they need.
+
+19. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Meanwhile, President Biden, Vice President Harris, and Democrats across
+      the country are fighting to defend women’s freedom to make their own
+      health care decisions
+
+20. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Vice President Kamala Harris, the Democratic party’s nominee, has already
+      indicated her support for abortion access and other forms of reproductive
+      health care. At one of her first campaign events, she stated that if
+      Congress “passes a law to restore reproductive freedom, as president of
+      the United States I will sign it into law.
+
+21. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Liberal Democrats, by contrast, are the least supportive of these
+      restrictive goals while being the most supportive of establishing a path
+      to legalization for undocumented immigrants in the country.
+
+22. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Immigrants contribute to the strength, vitality, and dynamism of our
+      communities, our economy, and our culture; America is also a sovereign
+      nation whose government has the right and the duty to control our borders
+      and decide who to admit. The best way to harmonize these two traditions is
+      to overhaul our system to make legal immigration work and illegal
+      immigration stop.
+
+23. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Yet, Democrats are generally seen as more pro-immigration, pushing for
+      pathways to citizenship, DACA protections, and less restrictive
+      immigration policies.
+
+24. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Half of both liberal (46%) and moderate (52%) Democrats support
+      maintaining current levels of legal immigration. But liberals tend to
+      endorse increasing legal immigration (44%) over decreasing it (9%), while
+      moderates are slightly more likely to say it should be decreased (27%)
+      than increased (20%). Majorities from both Democratic camps favor
+      accepting migrants from Taiwan, Ukraine, Haiti, Central America, India,
+      and Korea. Majorities of liberal Democrats also favor accepting immigrants
+      from Sudan, Afghanistan, Russia, and China; moderates are at best divided
+      and often opposed.
+
+25. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      We elect Democratic leaders who prioritize a high-quality equitable
+      education for all students. DFER is a national political organization that
+      supports elected Democrats and candidates for office who seek to expand
+      policies that improve the quality of education for America’s students.
+
+26. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      We believe in a universally well-educated population. To achieve this,
+      California students must have access to world-class pre-K – 12 public
+      education that will prepare them to live, work, and thrive in a
+      multicultural, multilingual, and highly connected world. We must prepare
+      our students for post-secondary education, career technical education, and
+      active citizenship in the 21st century. We must fully fund public
+      education to correct years of insufficient allocations, increase funding
+      to put California in the top states in per student spending, and equitably
+      distribute funding to school districts most in need.
+
+27. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      In 2022, under the leadership of Congressional Democrats and President
+      Biden, our nation took significant steps forward in our fight to protect
+      our children and communities. Now, House Democrats remain committed to
+      getting additional gun safety legislation across the finish line. To all
+      those in the Congress who would stand in the way of saving lives, we say:
+      your political survival is nothing compared to the survival of our
+      children. Democrats will continue fighting to bring this gun epidemic to
+      an end, and as we always promise the survivors of gun violence, we will
+      not rest until the job is done.
+
+28. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Over 40,000 Americans lose their lives to gun violence every year. In
+      communities, courts, and ballot boxes nationwide, Giffords fights to save
+      lives from gun violence
+
+29. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Equality Act, a landmark civil rights bill that would make sexual
+      orientation and gender identity protected classes.
+
+30. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Everyone, no matter who they are or who they love, deserves the right to
+      live free from discrimination and harassment. But LGBTQ+ people, who go to
+      school, run small businesses, raise kids and work hard to put food on the
+      table just like everyone else,
+
+31. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The Democrats have been pushing hard on issues like support for the LGBTQ
+      community and Diversity, Equity, and Inclusion (DEI) initiatives, but it's
+      time to ask if this strategy is really winning us votes or just pushing
+      away the middle ground
+
+32. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The Democratic Party believes that when workers are strong, America is
+      strong. Democrats will make it easier for workers, public and private, to
+      exercise their right to organize and join unions.
+
+33. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Democrats are most emphatic about the positives of alliances. In total, 74
+      percent say alliances benefit either the United States and allies (58%) or
+      the United States alone (16%). One-quarter (24%) say alliances mostly
+      benefit allies (19%) or benefit neither (5%).
+
+34. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Democrats’ robust backing for alliances also reflects their greater
+      inclination to support multilateral approaches to foreign policy and to
+      prioritize leading international cooperation in US foreign policy. For
+      example, seven in 10 Democrats agree that the United States should be more
+      willing to make decisions with its allies even if it results in a policy
+      that is not the United States’ first choice (71%, higher than the overall
+      average of 58%). While a majority of Independents also agree (58%), just
+      46 percent of Republicans are of the same mind (and 53% disagree).
+
+35. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Conservative Republicans are the most likely to express strong support for
+      more restrictive immigration goals such as increased border security and
+      increased deportations, even when compared with others in their party
+
+36. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: social_policy==================================================
+Łącznie próbek: 88Poprawnych klasyfikacji: 83 (94.32%)Błędnych klasyfikacji: 5 (5.68%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Immigrants contribute to the strength, vitality, and dynamism of our
+      communities, our economy, and our culture; America is also a sovereign
+      nation whose government has the right and the duty to control our borders
+      and decide who to admit. The best way to harmonize these two traditions is
+      to overhaul our system to make legal immigration work and illegal
+      immigration stop.
+
+2. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      A majority of Republicans (65%) support police using military weapons and
+      armored vehicles
+
+3. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      There is aview among American political analysts that Republicans tend to
+      favor the laws that block laws likely to place limits on gun ownership
+
+4. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      The party favors limited legal immigration but strongly opposes illegal
+      immigration and favors the deportation of those without permanent legal
+      status, such as undocumented immigrants and those with temporary protected
+      status.
+
+5. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      House Republicans are proposing legislation that would reduce federal
+      taxes by $3.8 trillion over 10 years, with a disproportionate share of tax
+      breaks going to the wealthy. The legislation would partially offset that
+      revenue loss with reduced spending of $1.1 trillion over 10 years—$1.5
+      trillion in spending cuts that include deep and harmful cuts to nutrition
+      assistance and health care for low-income households,

@@ -1,0 +1,210 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: economic_policy==================================================
+Łącznie próbek: 56Poprawnych klasyfikacji: 54 (96.43%)Błędnych klasyfikacji: 2 (3.57%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      Furthermore, Democrats to some degree support government-funded healthcare
+      and the party thereby aims to ensure that health and social services are
+      accessible for all U.S. citizens. Additionally, the Democratic Party
+      generally supports women’s legal rights to free abortion as well as LGBTQ+
+      people’s rights to equal treatment under the law. In opposition to
+      Republicans a large part of the Democratic Party promotes a tightening of
+      gun legislation and dispute the right to carry a concealed weapon (as
+      opposed to open carry). Similar to the Republican Party, Democrats
+      advocate for religious freedom and individuals’ right to practice their
+      faith. However, at the same time, and generally more so than Republicans,
+      Democrats value a separation between church and state, as is stated in the
+      U.S. constitution
+
+2. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      Making sure more kids have access to health care should be one of the
+      least controversial actions we can take as a nation, and the boost to
+      economic growth is just a cherry on top
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: government_role==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 82 (86.32%)Błędnych klasyfikacji: 13 (13.68%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Furthermore, Democrats to some degree support government-funded healthcare
+      and the party thereby aims to ensure that health and social services are
+      accessible for all U.S. citizens. Additionally, the Democratic Party
+      generally supports women’s legal rights to free abortion as well as LGBTQ+
+      people’s rights to equal treatment under the law. In opposition to
+      Republicans a large part of the Democratic Party promotes a tightening of
+      gun legislation and dispute the right to carry a concealed weapon (as
+      opposed to open carry). Similar to the Republican Party, Democrats
+      advocate for religious freedom and individuals’ right to practice their
+      faith. However, at the same time, and generally more so than Republicans,
+      Democrats value a separation between church and state, as is stated in the
+      U.S. constitution
+
+2. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      As a whole, Democrats are widely concerned about climate change and
+      closely follow science to remain informed about the ongoing development of
+      global warming – especially as the IPCC issued in their most recent report
+      that much of climate change has been aggravated by excessive human
+      activity – such as mass production and increased levels of use in
+      unsustainable transportation. In fact, addressing climate change is a
+      pivotal topic in many agendas for those who identify with the Democratic
+      party. This is because Democrats hold tight to the belief that climate
+      change presents a threat to society, the economy, and the future health of
+      Americans.
+
+3. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The Deocratic platform has a strong emphasis on the shift to clean energy,
+      which Democrats say can also lower Americans' energy costs and create more
+      jobs. Here's what the goals include: Incentivize investment in
+      transmission line upgrades and new lines, which move wind and solar energy
+      from where they're generated to where people live. Scale up development of
+      clean energy on public lands. Invest in clean energy research and
+      innovation.
+
+4. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      In April 2021, Biden set a new national goal to reduce emissions by 50% to
+      52% from 2005 levels by 2030, formalizing it in an updated nationally
+      determined contribution (NDC) under the Paris Agreement. Achieving this
+      goal will be a challenge, but it remains within reach thanks to progress
+      made in 2022 (see #2). The administration must develop a 2035 emissions
+      reduction target by next year, as required by the United Nations Framework
+      Convention on Climate Change (UNFCCC), that builds upon the United States’
+      2030 goal.
+
+5. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      New Democrats are committed to advancing real solutions that reduce health
+      care costs for families and seniors, increase choices for consumers, and
+      encourage participation by the young and healthy. To stabilize health
+      insurance markets and bring down the cost of healthcare for all Americans,
+      New Dems believe we must create a permanent reinsurance program, reduce
+      healthcare costs for low-income Americans, promote greater insurance
+      coverage, create a greater number of affordable insurance options, and
+      improve the marketplaces. New Democrats have sought ways to work with
+      Republicans for years to fix what is not working and strengthen the ACA,
+      but Republican actions continue to raise questions about their commitment
+      to join these efforts.
+
+6. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Meanwhile, President Biden, Vice President Harris, and Democrats across
+      the country are fighting to defend women’s freedom to make their own
+      health care decisions
+
+7. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Liberal Democrats, by contrast, are the least supportive of these
+      restrictive goals while being the most supportive of establishing a path
+      to legalization for undocumented immigrants in the country.
+
+8. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Yet, Democrats are generally seen as more pro-immigration, pushing for
+      pathways to citizenship, DACA protections, and less restrictive
+      immigration policies.
+
+9. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      In 2022, under the leadership of Congressional Democrats and President
+      Biden, our nation took significant steps forward in our fight to protect
+      our children and communities. Now, House Democrats remain committed to
+      getting additional gun safety legislation across the finish line. To all
+      those in the Congress who would stand in the way of saving lives, we say:
+      your political survival is nothing compared to the survival of our
+      children. Democrats will continue fighting to bring this gun epidemic to
+      an end, and as we always promise the survivors of gun violence, we will
+      not rest until the job is done.
+
+10. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Over 40,000 Americans lose their lives to gun violence every year. In
+      communities, courts, and ballot boxes nationwide, Giffords fights to save
+      lives from gun violence
+
+11. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Religiously affiliated institutions broadly. A wide range of religiously
+      affiliated institutions have asserted that they have a legal and even
+      constitutional right to be exempted from government requirements, even
+      those designed to prevent discrimination. Those claims have not been
+      limited to decisions in hiring ministers and others with clearly religious
+      duties. Rather, institutions have often demanded that they be allowed to
+      discriminate on religious grounds even when hiring staff to fulfill
+      government grants. Moreover, institutions have insisted that they be
+      allowed to discriminate against LGBTQ individuals in regard to employment;
+      to ignore same-sex marriages in providing employee benefits; to fire
+      employees who have used abortion care, contraceptives or assisted
+      reproductive technology, or who have had sex or become pregnant outside of
+      marriage; or even to ignore federal law preventing discrimination on the
+      basis of disability.
+
+12. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Conservative Republicans are the most likely to express strong support for
+      more restrictive immigration goals such as increased border security and
+      increased deportations, even when compared with others in their party
+
+13. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: social_policy==================================================
+Łącznie próbek: 88Poprawnych klasyfikacji: 81 (92.05%)Błędnych klasyfikacji: 7 (7.95%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ progressive a jest ZAKWALIFIKOWANY  jako traditional
+      In 2022, under the leadership of Congressional Democrats and President
+      Biden, our nation took significant steps forward in our fight to protect
+      our children and communities. Now, House Democrats remain committed to
+      getting additional gun safety legislation across the finish line. To all
+      those in the Congress who would stand in the way of saving lives, we say:
+      your political survival is nothing compared to the survival of our
+      children. Democrats will continue fighting to bring this gun epidemic to
+      an end, and as we always promise the survivors of gun violence, we will
+      not rest until the job is done.
+
+2. POWINNO BYĆ progressive a jest ZAKWALIFIKOWANY  jako traditional
+      Over 40,000 Americans lose their lives to gun violence every year. In
+      communities, courts, and ballot boxes nationwide, Giffords fights to save
+      lives from gun violence
+
+3. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Religiously affiliated institutions broadly. A wide range of religiously
+      affiliated institutions have asserted that they have a legal and even
+      constitutional right to be exempted from government requirements, even
+      those designed to prevent discrimination. Those claims have not been
+      limited to decisions in hiring ministers and others with clearly religious
+      duties. Rather, institutions have often demanded that they be allowed to
+      discriminate on religious grounds even when hiring staff to fulfill
+      government grants. Moreover, institutions have insisted that they be
+      allowed to discriminate against LGBTQ individuals in regard to employment;
+      to ignore same-sex marriages in providing employee benefits; to fire
+      employees who have used abortion care, contraceptives or assisted
+      reproductive technology, or who have had sex or become pregnant outside of
+      marriage; or even to ignore federal law preventing discrimination on the
+      basis of disability.
+
+4. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Most importantly, policies must respect religious beliefs without harming
+      or infringing on the rights of others. Through options like the examples
+      below, policymakers can create the framework for a balanced, inclusive
+      vision of religious liberty throughout the United States.
+
+5. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      The party opposes a government-run single-payer health care system,
+      claiming it constitutes socialized medicine. It favors a personal or
+      employer-based system of insurance supplemented by Medicare for the
+      elderly and Medicaid which covers approximately 40% of the poor.[citation
+      needed][19][failed verification] In 2003, Congress passed the Medicare
+      Modernization Act with bipartisan support creating Medicare Part D
+      covering prescription drugs. It was signed into law by President George W.
+      Bush.
+
+6. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Looking ahead, the Trump administration and GOP are in a position to
+      accelerate their health agenda with four key themes:, Flexibility and
+      choice: Shift decision making on healthcare from federal level to states
+      and individuals, Fiscal conservatism: Emphasize policies that reduce
+      government spending in an effort to balance the budget and pass upcoming
+      tax legislation, Public health reform: Revaluate the current health system
+      to “Make America Healthy Again”, Deregulation: Reduce the volume of
+      existing federal regulations
+
+7. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      House Republicans are proposing legislation that would reduce federal
+      taxes by $3.8 trillion over 10 years, with a disproportionate share of tax
+      breaks going to the wealthy. The legislation would partially offset that
+      revenue loss with reduced spending of $1.1 trillion over 10 years—$1.5
+      trillion in spending cuts that include deep and harmful cuts to nutrition
+      assistance and health care for low-income households,

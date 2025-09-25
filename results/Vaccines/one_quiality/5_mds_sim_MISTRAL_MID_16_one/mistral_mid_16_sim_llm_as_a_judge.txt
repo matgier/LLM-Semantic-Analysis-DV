@@ -1,0 +1,7301 @@
+================================================================================
+SELEKTYWNA ANALIZA KLASYFIKACJI TEKSTÓW
+================================================================================
+
+📋 KONFIGURACJA ANALIZY:
+   Kategorie do analizy: ['safety_beneficial', 'safety_harmful', 'efficacy_effective', 'efficacy_ineffective', 'obligation_beneficial', 'obligation_harmful']
+   Wymiary do analizy: ['vaccine_safety', 'vaccine_efficacy', 'vaccination_obligation']
+   Próbkowanie: Wszystkie teksty
+
+📊 PRZYGOTOWANIE DANYCH...
+📝 Zebrano łącznie 313 tekstów:
+   - obligation_beneficial: 68 tekstów
+   - safety_harmful: 48 tekstów
+   - efficacy_effective: 71 tekstów
+   - efficacy_ineffective: 23 tekstów
+   - obligation_harmful: 48 tekstów
+   - safety_beneficial: 55 tekstów
+
+🔍 Używane kategorie semantic_features:
+   - vaccine_safety_beneficial
+   - vaccine_safety_harmful
+   - vaccine_efficacy_effective
+   - vaccine_efficacy_ineffective
+   - vaccination_obligation_beneficial
+   - vaccination_obligation_harmful
+
+🤖 ROZPOCZYNAM KLASYFIKACJĘ...
+Rozpoczynam klasyfikację 313 tekstów...
+Wymiary analizy: ['vaccine_safety', 'vaccine_efficacy', 'vaccination_obligation']
+--------------------------------------------------
+
+Przetwarzam tekst 1/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 2/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 3/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 4/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 5/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 6/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 7/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 8/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 9/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 10/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 7.5,
+      "ineffective": 2.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 11/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 12/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 13/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 14/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 15/313...
+RESPONSE:   {
+      "beneficial": "9.5",
+      "harmful": "0.5",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": "9.5",
+      "ineffective": "0.5",
+      "best_category": "effective",
+      "confidence": "0.96"
+   }
+RESPONSE:   {
+      "beneficial": "9.5",
+      "harmful": "0.5",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 16/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 17/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 18/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 19/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 20/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 21/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 22/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 23/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 24/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 25/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 26/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 27/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 28/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 29/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 30/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 8.5,
+      "ineffective": 3.5,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 31/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 32/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 33/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 34/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 35/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 36/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 37/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 38/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 39/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 40/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 41/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 42/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 43/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 44/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 45/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 46/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 47/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 48/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 49/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 50/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 51/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 52/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 53/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.96"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 54/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 55/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 56/313...
+RESPONSE:   {
+      "beneficial": 0.2,
+      "harmful": 8.5,
+      "best_category": "harmful",
+      "confidence": 0.85
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: harmful (pewność: 0.85)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 57/313...
+RESPONSE:   {
+      "beneficial": 7,
+      "harmful": 3,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 58/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 59/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 60/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 3,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 61/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 62/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 63/313...
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 3,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 64/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 65/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 3,
+      "best_category": "beneficial",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 1
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.80)
+  vaccine_efficacy: ineffective (pewność: 1.00)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 66/313...
+RESPONSE:   {
+      "beneficial": "1",
+      "harmful": "9",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 67/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 68/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 3,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 69/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 70/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 71/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 72/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 73/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 74/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 75/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 76/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 1.0
+   }
+RESPONSE:   {
+      "effective": 1,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 1.00)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 77/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 3,
+      "best_category": "beneficial",
+      "confidence": 0.7
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.70)
+
+Przetwarzam tekst 78/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 3,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 79/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 80/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.8
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.80)
+
+Przetwarzam tekst 81/313...
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 82/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 83/313...
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.8
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.80)
+
+Przetwarzam tekst 84/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 85/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 86/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 87/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 88/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 89/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 1
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 1
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 1.00)
+  vaccination_obligation: harmful (pewność: 1.00)
+
+Przetwarzam tekst 90/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 91/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 92/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 93/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 94/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 95/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 96/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 97/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 98/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 99/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 100/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 1.0
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 1.00)
+
+Przetwarzam tekst 101/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 102/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 103/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 104/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 105/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 106/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.99)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 107/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 108/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 109/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 110/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 111/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 112/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 113/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 114/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 7.5,
+      "ineffective": 2.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 115/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 116/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 117/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 118/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 119/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 120/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 121/313...
+RESPONSE:   {
+      "beneficial": "9.5",
+      "harmful": "0.5",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": "9.5",
+      "ineffective": "0.5",
+      "best_category": "effective",
+      "confidence": "0.96"
+   }
+RESPONSE:   {
+      "beneficial": "9.5",
+      "harmful": "0.5",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 122/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 123/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 124/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 125/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 126/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 127/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 128/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 129/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 130/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 131/313...
+RESPONSE:   {
+      "beneficial": "1",
+      "harmful": "9",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 132/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 133/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 134/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 135/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 136/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 137/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.97
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.97)
+
+Przetwarzam tekst 138/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 139/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 8.5,
+      "ineffective": 3.5,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 140/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 141/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 142/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 143/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 144/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 145/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 146/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 147/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 148/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 149/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 150/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 151/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 152/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 153/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 154/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 155/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 156/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 157/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 158/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 159/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 160/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 161/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 162/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 163/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 6,
+      "ineffective": 4,
+      "best_category": "effective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 164/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 165/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 166/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 167/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 168/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 169/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.97
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.97)
+
+Przetwarzam tekst 170/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.96"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 171/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 172/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 173/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 174/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 175/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 3,
+      "best_category": "beneficial",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 1
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.80)
+  vaccine_efficacy: ineffective (pewność: 1.00)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 176/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 3,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 177/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 178/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 179/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 180/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 1.0
+   }
+RESPONSE:   {
+      "effective": 1,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 1.00)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 181/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 3,
+      "best_category": "beneficial",
+      "confidence": 0.7
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.70)
+
+Przetwarzam tekst 182/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 183/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.8
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.80)
+
+Przetwarzam tekst 184/313...
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 185/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 186/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 187/313...
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.8
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.80)
+
+Przetwarzam tekst 188/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 189/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 190/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 191/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 192/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 1
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 1
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 1.00)
+  vaccination_obligation: harmful (pewność: 1.00)
+
+Przetwarzam tekst 193/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 194/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 195/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 196/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 197/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 198/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 199/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 200/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.99)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 201/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 202/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 203/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 204/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 205/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 206/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 207/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 208/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 7.5,
+      "ineffective": 2.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 209/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 210/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 211/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 212/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 213/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 214/313...
+RESPONSE:   {
+      "beneficial": "9.5",
+      "harmful": "0.5",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": "9.5",
+      "ineffective": "0.5",
+      "best_category": "effective",
+      "confidence": "0.96"
+   }
+RESPONSE:   {
+      "beneficial": "9.5",
+      "harmful": "0.5",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 215/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 216/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 217/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 218/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 219/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 220/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 221/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 222/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 223/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 224/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 225/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 226/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 227/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 228/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 229/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 230/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.97
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.97)
+
+Przetwarzam tekst 231/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 8.5,
+      "ineffective": 3.5,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 232/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 233/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 234/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 235/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 236/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 237/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 238/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 239/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 240/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 241/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 242/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 243/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 244/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": "9",
+      "ineffective": "1",
+      "best_category": "effective",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 245/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 246/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 247/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 248/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 249/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 250/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 251/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9.5,
+      "ineffective": 0.5,
+      "best_category": "effective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.95)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 252/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 253/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 254/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 6,
+      "ineffective": 4,
+      "best_category": "effective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 255/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "1.0"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 1.00)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 256/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 257/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 258/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.90)
+
+Przetwarzam tekst 259/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 260/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.97
+   }
+  vaccine_safety: beneficial (pewność: 0.96)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.97)
+
+Przetwarzam tekst 261/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 8,
+      "ineffective": 2,
+      "best_category": "effective",
+      "confidence": 0.96
+   }
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.96"
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.96)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 262/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 263/313...
+RESPONSE:   {
+      "beneficial": "9",
+      "harmful": "1",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 264/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 265/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 266/313...
+RESPONSE:   {
+      "beneficial": 0.2,
+      "harmful": 8.5,
+      "best_category": "harmful",
+      "confidence": 0.85
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: harmful (pewność: 0.85)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 267/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 268/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 269/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 3,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 270/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 271/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 272/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.8
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.80)
+
+Przetwarzam tekst 273/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 274/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 275/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 3,
+      "best_category": "beneficial",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 1
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.98
+   }
+  vaccine_safety: beneficial (pewność: 0.80)
+  vaccine_efficacy: ineffective (pewność: 1.00)
+  vaccination_obligation: beneficial (pewność: 0.98)
+
+Przetwarzam tekst 276/313...
+RESPONSE:   {
+      "beneficial": "1",
+      "harmful": "9",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 277/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 278/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 3,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 279/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 280/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 281/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 282/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 283/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 284/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 285/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 286/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 1.0
+   }
+RESPONSE:   {
+      "effective": 1,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 1.00)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 287/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 288/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 289/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 3,
+      "best_category": "beneficial",
+      "confidence": 0.7
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.70)
+
+Przetwarzam tekst 290/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 3,
+      "harmful": 7,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 291/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 292/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.8
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.80)
+
+Przetwarzam tekst 293/313...
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: beneficial (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 294/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 295/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 296/313...
+RESPONSE:   {
+      "beneficial": "8",
+      "harmful": "2",
+      "best_category": "beneficial",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.8
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.80)
+
+Przetwarzam tekst 297/313...
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 1,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 298/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 299/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 9,
+      "ineffective": 1,
+      "best_category": "effective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: effective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.99)
+
+Przetwarzam tekst 300/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 301/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 302/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 1
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 1
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 1.00)
+  vaccination_obligation: harmful (pewność: 1.00)
+
+Przetwarzam tekst 303/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 304/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 305/313...
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.99
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 9,
+      "best_category": "ineffective",
+      "confidence": 0.9
+   }
+RESPONSE:   {
+      "beneficial": 9.5,
+      "harmful": 0.5,
+      "best_category": "beneficial",
+      "confidence": 0.96
+   }
+  vaccine_safety: beneficial (pewność: 0.99)
+  vaccine_efficacy: ineffective (pewność: 0.90)
+  vaccination_obligation: beneficial (pewność: 0.96)
+
+Przetwarzam tekst 306/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.95"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 307/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 308/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 0.9
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.90)
+
+Przetwarzam tekst 309/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 310/313...
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9.5,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 0,
+      "harmful": 9,
+      "best_category": "harmful",
+      "confidence": 1.0
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 1.00)
+
+Przetwarzam tekst 311/313...
+RESPONSE:   {
+      "beneficial": "2",
+      "harmful": "8",
+      "best_category": "harmful",
+      "confidence": "0.9"
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 9.5,
+      "best_category": "ineffective",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.90)
+  vaccine_efficacy: ineffective (pewność: 0.95)
+  vaccination_obligation: harmful (pewność: 0.95)
+
+Przetwarzam tekst 312/313...
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 0,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+  vaccine_safety: harmful (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: beneficial (pewność: 0.95)
+
+Przetwarzam tekst 313/313...
+RESPONSE:   {
+      "beneficial": 8,
+      "harmful": 2,
+      "best_category": "beneficial",
+      "confidence": 0.95
+   }
+RESPONSE:   {
+      "effective": 2,
+      "ineffective": 8,
+      "best_category": "ineffective",
+      "confidence": 0.8
+   }
+RESPONSE:   {
+      "beneficial": 2,
+      "harmful": 8,
+      "best_category": "harmful",
+      "confidence": 0.95
+   }
+  vaccine_safety: beneficial (pewność: 0.95)
+  vaccine_efficacy: ineffective (pewność: 0.80)
+  vaccination_obligation: harmful (pewność: 0.95)
+--------------------------------------------------
+Zakończono: 313/313 tekstów sklasyfikowanych
+
+📈 ANALIZA WYNIKÓW PER KATEGORIA ŹRÓDŁOWA:
+------------------------------------------------------------
+
+🔍 ŹRÓDŁO: safety_beneficial
+   Liczba tekstów: 55
+   Główny wymiar: vaccine_safety
+   Oczekiwana kategoria: beneficial
+   ✅ Dokładność: 100.00%
+   🎯 Średnia pewność: 0.93
+   📊 Dystrybucja predykcji:
+      - beneficial: 55 (100.0%)
+
+🔍 ŹRÓDŁO: safety_harmful
+   Liczba tekstów: 48
+   Główny wymiar: vaccine_safety
+   Oczekiwana kategoria: harmful
+   ✅ Dokładność: 77.08%
+   🎯 Średnia pewność: 0.94
+   📊 Dystrybucja predykcji:
+      - harmful: 37 (77.1%)
+      - beneficial: 11 (22.9%)
+
+🔍 ŹRÓDŁO: efficacy_effective
+   Liczba tekstów: 71
+   Główny wymiar: vaccine_efficacy
+   Oczekiwana kategoria: effective
+   ✅ Dokładność: 95.77%
+   🎯 Średnia pewność: 0.93
+   📊 Dystrybucja predykcji:
+      - effective: 68 (95.8%)
+      - ineffective: 3 (4.2%)
+
+🔍 ŹRÓDŁO: efficacy_ineffective
+   Liczba tekstów: 23
+   Główny wymiar: vaccine_efficacy
+   Oczekiwana kategoria: effective
+   ✅ Dokładność: 4.35%
+   🎯 Średnia pewność: 0.91
+   📊 Dystrybucja predykcji:
+      - ineffective: 22 (95.7%)
+      - effective: 1 (4.3%)
+
+🔍 ŹRÓDŁO: obligation_beneficial
+   Liczba tekstów: 68
+   Główny wymiar: vaccination_obligation
+   Oczekiwana kategoria: beneficial
+   ✅ Dokładność: 98.53%
+   🎯 Średnia pewność: 0.93
+   📊 Dystrybucja predykcji:
+      - beneficial: 67 (98.5%)
+      - harmful: 1 (1.5%)
+
+🔍 ŹRÓDŁO: obligation_harmful
+   Liczba tekstów: 48
+   Główny wymiar: vaccination_obligation
+   Oczekiwana kategoria: harmful
+   ✅ Dokładność: 79.17%
+   🎯 Średnia pewność: 0.94
+   📊 Dystrybucja predykcji:
+      - beneficial: 10 (20.8%)
+      - harmful: 38 (79.2%)
+
+============================================================
+📊 MACIERZE POMYŁEK PER WYMIAR
+============================================================
+
+vaccination_obligation:
+  Dokładność: 90.52%
+  Liczba próbek: 116

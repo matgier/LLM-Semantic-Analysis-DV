@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== vaccine_safety_beneficial ===
+20 słów kluczowych:
+ 1. safety              : 28       2. vaccines            : 23  
+ 3. medical             : 12       4. rigorous            : 10  
+ 5. monitoring          : 10       6. adverse             : 10  
+ 7. testing             : 10       8. extensive           : 10  
+ 9. overwhelming        : 10      10. through             : 9   
+11. rare                : 9       12. multiple            : 9   
+13. effects             : 9       14. interventions       : 9   
+15. profile             : 8       16. clinical            : 8   
+17. trials              : 8       18. side                : 8   
+19. scientific          : 8       20. serious             : 7   
+
+=== vaccine_safety_harmful ===
+20 słów kluczowych:
+ 1. vaccines            : 16       2. damage              : 16  
+ 3. injuries            : 12       4. adverse             : 11  
+ 5. including           : 10       6. products            : 10  
+ 7. testing             : 10       8. experimental        : 10  
+ 9. neurological        : 9       10. safety              : 9   
+11. deaths              : 9       12. dangerous           : 8   
+13. reactions           : 8       14. permanent           : 8   
+15. long-term           : 8       16. emergency           : 8   
+17. blood               : 8       18. ingredients         : 7   
+19. causing             : 7       20. health              : 7   
+
+=== vaccine_efficacy_effective ===
+20 słów kluczowych:
+ 1. vaccines            : 21       2. protection          : 21  
+ 3. disease             : 15       4. diseases            : 14  
+ 5. against             : 14       6. through             : 12  
+ 7. rates               : 12       8. immunity            : 12  
+ 9. health              : 10      10. populations         : 9   
+11. public              : 8       12. data                : 8   
+13. dramatically        : 7       14. reducing            : 7   
+15. preventing          : 7       16. severe              : 7   
+17. across              : 7       18. clinical            : 7   
+19. showing             : 7       20. effectiveness       : 7   
+
+=== vaccine_efficacy_ineffective ===
+20 słów kluczowych:
+ 1. vaccinated          : 19       2. vaccines            : 16  
+ 3. immunity            : 12       4. rates               : 12  
+ 5. protection          : 11       6. while               : 10  
+ 7. breakthrough        : 9        8. infections          : 9   
+ 9. individuals         : 9       10. rapidly             : 8   
+11. endless             : 8       12. infection           : 8   
+13. transmission        : 8       14. fully               : 8   
+15. covid-19            : 7       16. prevent             : 7   
+17. populations         : 7       18. vaccine             : 7   
+19. unvaccinated        : 7       20. requiring           : 6   
+
+=== vaccination_obligation_beneficial ===
+20 słów kluczowych:
+ 1. vaccination         : 25       2. immunity            : 17  
+ 3. health              : 15       4. protection          : 14  
+ 5. disease             : 14       6. vulnerable          : 13  
+ 7. individual          : 12       8. through             : 12  
+ 9. community           : 12      10. social              : 11  
+11. collective          : 11      12. public              : 11  
+13. responsibility      : 10      14. represents          : 9   
+15. herd                : 9       16. populations         : 9   
+17. individuals         : 9       18. beyond              : 8   
+19. vaccinated          : 8       20. contract            : 7   
+
+=== vaccination_obligation_harmful ===
+20 słów kluczowych:
+ 1. medical             : 30       2. personal            : 17  
+ 3. individual          : 14       4. decisions           : 13  
+ 5. bodily              : 13       6. consent             : 12  
+ 7. mandates            : 12       8. informed            : 11  
+ 9. health              : 10      10. autonomy            : 10  
+11. ethical             : 9       12. individuals         : 9   
+13. principles          : 9       14. vaccine             : 8   
+15. over                : 8       16. risk                : 8   
+17. future              : 7       18. freedom             : 7   
+19. government          : 7       20. interventions       : 6   

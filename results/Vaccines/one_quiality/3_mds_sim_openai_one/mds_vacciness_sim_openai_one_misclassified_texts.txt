@@ -1,0 +1,411 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccination_obligation==================================================
+Łącznie próbek: 117Poprawnych klasyfikacji: 104 (88.89%)Błędnych klasyfikacji: 13 (11.11%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Can the dramatic increase in autism be ascribed to change in diagnostic
+      practice? Data from the recent California report from the Office of
+      Developmental Services belie this contention. The Figure 1 juxtaposes the
+      data from California with those from north-west London. Identical temporal
+      trends are shown, with the rise in autism from a steady baseline value,
+      coinciding with the introduction of MMR vaccine as the single strategy in
+      both countries that use the same diagnostic criteria for autism.
+
+2. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Accordingly, in addition to its role in protecting them from serious
+      diseases that are still lurking about, I consider vaccinating our children
+      as part of a social contract we have with the communities we live in. When
+      we vaccinate the majority of children, we create what is known as "herd
+      immunity" that limits the spread of a disease through a population.
+      Parents who do not vaccinate their children would seem to be apart from
+      this social contract; in reality, though, they can safely refuse
+      vaccination for their children only because most parents have accepted the
+      risk of vaccination for their own children and thereby have raised the
+      overall level of protective immunity. If we all spurned this contract, a
+      new generation of children--our children--would be devastated by diseases
+      that could be avoided. That would violate what I consider to be one of the
+      most fundamental tenets of public health: children should not be harmed by
+      things that can be prevented.
+
+3. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Most diseases that vaccines target are relatively harmless in many cases,
+      thus making vaccines unnecessary. The chickenpox is often just a rash with
+      blisters and can be treated with acetaminophen, cool compresses, and
+      calamine lotion. The measles is normally a rash accompanied by a fever and
+      runny nose and can be treated with rest and fluids. Rubella is often just
+      a virus with a rash and low fever and can be treated with acetaminophen.
+      Rotavirus can normally be treated with hydration and probiotics.
+
+4. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      In general, skipping vaccines isn't a good idea. This can leave your child
+      vulnerable to potentially serious diseases that could otherwise be
+      avoided. And consider this: For some children — including those who can't
+      receive certain vaccines for medical reasons (such as cancer therapy) —
+      the only protection from vaccine-preventable diseases is the immunity of
+      the people around them. If immunization rates drop, vaccine-preventable
+      diseases might once again become common threats.
+
+5. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Vaccinated individuals have accounted for 73 percent of all covid-19 cases
+      in England over the past month and are the obvious driving factor for
+      viral transmission. The vaccinated are also the ones crowding the
+      hospitals. There were 2,341 unvaccinated hospitalizations last month (a
+      number that is falling rapidly). However, there were 6,889
+      hospitalizations for the vaccinated (a number that is rapidly increasing).
+      Most of these hospitalizations are occurring in triply vaccinated
+      individuals (4,936). In all, 75 percent of all Covid-19 hospitalizations
+      are observed in the vaccinated. When it comes to fatalities, the
+      unvaccinated cohort is improving. The unvaccinated accounted for 559
+      deaths in the last reporting period and the vaccinated accounted for 4,302
+      deaths, with the majority of fatalities occurring in the triply vaccinated
+      (3,120). The vaccinated population now accounts for 90 percent of the
+      deaths overall. The triply vaccinated account for 4 of every 5 of these
+      fatalities! To put these figures in perspective, take a look at the Week
+      51 Vaccine Surveillance Report for 2021. From November 22 to December 19,
+      2021, there were 889 unvaccinated deaths and 2,913 vaccinated deaths. This
+      shows that the fatality rate for the unvaccinated population is going
+      down, while the fatality rate for the vaccinated population is getting
+      severely worse. So, why hasn’t a strict moratorium been placed on this
+      destructive vaccine?
+
+6. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Thalidomide is a drug that was marketed as a treatment for morning
+      sickness in pregnant women in the late 1950s and early 60s and later
+      caused birth defects. This has understandably prompted distrust in
+      government guidance on public health issues. However, Thalidomide is not
+      comparable to a vaccine. Thalidomide went directly into the bloodstream,
+      whereas the Covid-19 vaccine gives antibodies which help fight off the
+      virus. Thalidomide was not properly tested and never went through the
+      monitoring system as the coronavirus vaccine has done. Dr Ruth Blue, a
+      consultant for the Thalidomide Society, said it was “a bit insulting that
+      suddenly Thalidomide gets remembered after all these years when it suits
+      anti-vaxxers to have something to compare to — but it isn’t a comparison.
+      “The outcome of Thalidomide completely changed the way drugs are tested
+      and are passed.” She added: “Vaccinations are a really fairly safe form of
+      medicine. They have been around for a very long time. There have been very
+      few problems with vaccinations over the years and it’s not really
+      comparable. They are a tried and tested science and they have saved
+      absolutely millions of lives. “Thalidomide did totally the opposite. It
+      wasn’t tested, it wasn’t tried out and it destroyed millions of lives.”
+
+7. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      There are unfortunate and disturbing reports that childhood vaccine
+      administration is being disrupted by the COVID-19 pandemic all over the
+      world. This is worrisome because it would mean that not only would we
+      worry about coronavirus resurgence after social distancing is relaxed, but
+      also about resurgence of a host of other awful infectious diseases like
+      polio and measles. During the pandemic we should continue to vaccinate,
+      and continue to provide for children those things needed to protect their
+      well-being. This is challenging, but important.
+
+8. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Parental refusal of vaccines is a growing a concern for the increased
+      occurrence of vaccine preventable diseases in children. A number of
+      studies have looked into the reasons that parents refuse, delay, or are
+      hesitant to vaccinate their child(ren). These reasons vary widely between
+      parents, but they can be encompassed in 4 overarching categories. The 4
+      categories are religious reasons, personal beliefs or philosophical
+      reasons, safety concerns, and a desire for more information from
+      healthcare providers. Parental concerns about vaccines in each category
+      lead to a wide spectrum of decisions varying from parents completely
+      refusing all vaccinations to only delaying vaccinations so that they are
+      more spread out. A large subset of parents admits to having concerns and
+      questions about childhood vaccinations. For this reason, it can be helpful
+      for pharmacists and other healthcare providers to understand the cited
+      reasons for hesitancy so they are better prepared to educate their
+      patients' families. Education is a key player in equipping parents with
+      the necessary information so that they can make responsible immunization
+      decisions for their children.
+
+9. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Some people don’t get flu vaccines for themselves or for their children.
+      There are several reasons for this, including: The flu vaccine doesn’t
+      protect against all strains of the flu. The vaccination needs to be given
+      every year. The vaccination could make them sick, which is false.
+
+10. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Perhaps the most pertinent finding is that, due to the discovery of a
+      widespread memory-type antibody response to SARS-CoV-2, the antibodies
+      induced by the COVID-19 vaccines can be expected to activate the so-called
+      complement system. This can bring about the destruction of any cell that
+      manufactures the SARS-CoV-2 spike protein, particularly in the
+      circulation. If that happens to the endothelia, that is, the cell layer
+      that lines the inner surfaces of our blood vessels, then those vessels may
+      begin to leak [6] and clots will form. Given that 2021 research showed the
+      spike protein to enter the bloodstream shortly after vaccination [5], this
+      dangerous endothelial involvement in spike-production is highly likely,
+      and should be expected to occur. As stark as these medical realities may
+      be, the silver lining is that the same antibody profile, along with
+      previously documented T-cell immunity [7–11], protects around 99% of the
+      population against life- threatening SARS-CoV-2 infections. This ties in
+      with the known fact that over 99% of people are safe from death with
+      COVID-19 [12–14].
+
+11. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      2.4.3.2. Antibodies Before the new discoveries of 2021, scientists’
+      concerns about clotting and bleeding were based primarily on the
+      prediction that killer T-cells would attack spike-producing endothelial
+      cells, causing lesions on vessel linings and promoting blood clots. While
+      this mechanism remains valid, we now know that a memory-type antibody
+      response will join the attack on the vessel walls as well. Whereas killer
+      T-cells attack their targets cell-to-cell, antibodies are proteins that
+      exert their effect by binding to signature structures on the pathogen’s
+      surface, known as epitopes. Instead of destroying cells directly, once
+      attached to an epitope, antibodies help to defeat invaders by “calling out
+      the cavalry” on infected cells. This leads to the second process by which
+      cells coated with viral spikes will inadvertently come under immune
+      attack. “Calling out the cavalry” means that the antibodies attached to
+      the unnaturally created spikes will trigger activation of the complement
+      system, which thereupon will mount a massive attack on the endothelial
+      cells. Importantly for deciphering the recent discoveries on SARS-CoV-2
+      immunity, the first time that the immune system encounters a new pathogen,
+      new antibodies in a shape capable of binding to that pathogen’s epitopes
+      must be formed (by immune cells known as B-cells). First-time antibody
+      production is slow, taking approximately four weeks. Should the same
+      pathogen or family of pathogens invade again, however, memory-type
+      antibodies are then manufactured more rapidly, within one to two weeks.
+      This is a cardinal sign that the immune system has seen that pathogen
+      before. Another defining feature of a memory antibody response concerns
+      the order in which antibody sub-types are produced. If a pathogen is new,
+      IgM is the first type of antibody to arrive on the scene. It is followed
+      later by IgG and IgA. The next time the pathogen arrives, however, IgG and
+      IgA will be the first to arrive, indicating that the virus, or its
+      relatives, have invaded before. Importantly, this is precisely what we see
+      with COVID-19. Several research groups found in 2021 that upon first
+      exposure to SARS-CoV-2, and following COVID-19 vaccination, the antibody
+      response was characteristic of the memory type, due both to the timing and
+      nature of antibodies measured. [xv-xvii] As a result, we now know that our
+      immune systems recognise SARS-CoV-2 at first sight, even “on the slightest
+      viral challenge” [5]. In other words, SARS-CoV-2 is not a novel
+      coronavirus after all. With respect to variants and the need for booster
+      shots, memory B-cells, like memory T-cells, can recognise not only a
+      specific virus, but a whole family of viruses bearing related epitopes. It
+      is unsurprising, therefore, that memory B-cells recognise SARS-CoV-2 from
+      the common cold. With cross immunity this robust, closer relatives of
+      SARS-CoV-2 in the form of variants will pose no obstacle to our antibody
+      response. The rising “cases”, hospitalisations and deaths attributed to
+      Delta and other variants are therefore almost certainly driven by false
+      positive PCR results and misclassification than by a true increase in
+      COVID-19 disease. Indeed, according to Public Health England data, the
+      Delta variant is non- lethal in those under 50, and less than half as
+      lethal as earlier strains in older age groups [26]. But why haven’t
+      circulating antibodies to SARS-CoV-2 been detected in populations before?
+      The answer is that neither the antibodies nor T-cells associated with a
+      memory-type response circulate in the bloodstream. Once they are no longer
+      needed, they become dormant, existing as a memory alone. Unless elicited
+      by re-exposure to a virus, they remain invisible in the bloodstream. The
+      dormant antibodies will, however, be ready and waiting to re-activate and
+      call out the cavalry on the spike protein, in the form of the complement
+      cascade.
+
+12. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      “We're seeing a trend; kids who are not yet vaccinated are getting
+      COVID-19 and becoming severely ill and hospitalized,” said Kari Simonsen,
+      M.D., an infectious disease specialist and pediatrician-in-chief at
+      Children's Hospital & Medical Center. “Vaccinating kids against COVID-19
+      benefits our whole community because there will be fewer illnesses in
+      children and fewer illnesses in the adults that they are around.” While
+      case numbers have continued to fluctuate, previous spikes of COVID-19
+      cases have caused disruptions in care for individuals with non-COVID-19
+      health needs. As more families become vaccinated against COVID-19 to
+      prevent severe illness, it alleviates strain on community health care
+      systems. “If I didn't believe in the vaccine, I wouldn't have gotten it
+      for my children. It reduces the spread of COVID-19 and the risk of severe
+      symptoms. It also is safe for children. There has been plenty of research
+      on it in the last two years,” said Anna Warnes, APRN, who serves as a
+      family medical practitioner in Crete and Wilber, Nebraska.
+
+13. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      What is currently unknown is the ultimate impact of those burdens on
+      future economic activity, which has been curtailed severely by social
+      isolation. “That’s why, if and when a vaccine is developed, which most
+      people expect to happen in the next year and a half,” Lichtenberg says,
+      “the value to society will be in reducing these other burdens, and
+      allowing the economy to get back to normal. Or at least a new normal.”
+      Lichtenberg says it’s important that any new vaccine be fairly priced, but
+      also that it is financially attractive for companies to invest heavily in
+      research. “Given how valuable this would be to the world, providing
+      financial incentives to industry is important,” Lichtenberg says. “We need
+      to develop a safe and effective vaccine as quickly as possible.”
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccine_efficacy==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 88 (92.63%)Błędnych klasyfikacji: 7 (7.37%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      Most diseases that vaccines target are relatively harmless in many cases,
+      thus making vaccines unnecessary. The chickenpox is often just a rash with
+      blisters and can be treated with acetaminophen, cool compresses, and
+      calamine lotion. The measles is normally a rash accompanied by a fever and
+      runny nose and can be treated with rest and fluids. Rubella is often just
+      a virus with a rash and low fever and can be treated with acetaminophen.
+      Rotavirus can normally be treated with hydration and probiotics.
+
+2. POWINNO BYĆ effective a jest ZAKWALIFIKOWANY  jako ineffective
+      So vaccines are NOT safe by design. Safety by testing ALONE, is an
+      unacceptable strategy for such a safety critical product. And it is too
+      late when the safety problems are detected in the general public, as is
+      the case now and as clearly demonstrated by the Pandemrix induced
+      narcolepsy disaster. The Institute of Medicine (IOM) lamented in 2012 that
+      "for the majority of cases (135 vaccine-adverse event pairs), the evidence
+      was inadequate to accept or reject a causal relationship." The evidence
+      for vaccine safety claims simply does NOT exist. Many epidemiological
+      vaccine safety studies make the basic mistake of declaring "lack of
+      association" because the confidence interval of the odds ratio does not
+      span the null value. These conclusions are simply wrong. Mechanistic
+      evidence clearly demonstrates vaccines cause food allergies, asthma⁠,
+      autism and many autoimmune diseases including type 1 diabetes.
+
+3. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      Research into immunisation has been based on the theory that the benefits
+      of immunisation far outweigh the risks from delayed adverse events and so
+      long term safety studies do not need to be performed. When looking at
+      diabetes—only one potential chronic adverse event—we found that the rise
+      in the prevalence of diabetes may more than offset the expected decline in
+      long term complications of H influenzae meningitis. Thus diabetes induced
+      by vaccine should not be considered a rare potential adverse event. The
+      incidence of many other chronic immunological diseases, including asthma,
+      allergies, and immune mediated cancers, has risen rapidly and may also be
+      linked to immunisation.
+
+4. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      The genetic material delivered by mRNA vaccines never enters the nucleus
+      of your cells, which is where your DNA is kept. Viral vector COVID-19
+      vaccines deliver genetic material to the cell nucleus to allow our cells
+      to build protection against COVID-19. However, the vector virus does not
+      have the machinery needed to integrate its genetic material into our DNA,
+      so it cannot alter our DNA. It turns out the CDC was lying all along. No
+      one is surprised to learn this, and it begs the obvious question: What
+      else is the CDC lying about? What other truths are they hiding from the
+      public? The CDC lied about vaccine distribution throughout your body, and
+      they lied about vaccines altering your DNA. The CDC, which owns thousands
+      of patents on vaccines, is actually a vaccine criminal cartel and
+      propaganda operation that deliberately misleads the public about vaccines
+      in order to sell deadly poison to the masses.
+
+5. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      Some people don’t get flu vaccines for themselves or for their children.
+      There are several reasons for this, including: The flu vaccine doesn’t
+      protect against all strains of the flu. The vaccination needs to be given
+      every year. The vaccination could make them sick, which is false.
+
+6. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      “We will have a safety profile for only a certain number of months, so if
+      there is a long-term effect after two years, we cannot know,” Brosh said,
+      adding that we could wait two years to discover them, “but then we would
+      have the coronavirus for two more years.” Linial expressed similar
+      sentiments: “Classical vaccines were designed to take 10 years to develop.
+      I don’t think the world can wait for a classical vaccine.” But when asked
+      if she would take the vaccine right away, she responded: “I won’t be
+      taking it immediately – probably not for at least the coming year,” she
+      told the Post. “We have to wait and see whether it really works.”
+
+7. POWINNO BYĆ effective a jest ZAKWALIFIKOWANY  jako ineffective
+      Sharon Stoolman, M.D., a pediatric hospitalist at Children’s, said she
+      frequently hears a few misconceptions from parents about COVID-19 and
+      vaccination. She wants to be clear — immunity after a COVID-19 infection
+      and the body's natural immunity are not enough to fight the virus and its
+      emerging variants. Dr-Stoolman-at-Press-Conference.jpg Sharon Stoolman,
+      M.D., pediatric physician at Children's Hospital & Medical Center, shares
+      facts on the importance of COVID-19 vaccination for kids. Photo provided
+      by MaxtheVaxNE.org “I'd equate it to your protection in a hurricane. If we
+      were in a regular rainstorm, your natural immunity might be enough of an
+      umbrella for you to weather the storm. But in a pandemic with large
+      amounts of the virus in the community, we need more than just an umbrella.
+      We're going to need a poncho, rain pants and boots because the natural
+      immunity you have could not be enough for the latest variant. So, we are
+      urging families to get vaccinated even if you had COVID-19 last year
+      because we need that added layer of protection,” Dr. Stoolman said.
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccine_safety==================================================
+Łącznie próbek: 104Poprawnych klasyfikacji: 96 (92.31%)Błędnych klasyfikacji: 8 (7.69%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Beyond concerns about side effects, many of the hesitant just don’t have
+      much trust in the vaccines. They may believe that the process for the
+      vaccines was too fast — it was, after all, a record time from conception
+      to mass production. They may note the vaccines aren’t even technically
+      approved by the Food and Drug Administration since the agency has only
+      authorized them for emergency use.
+
+2. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      For some, the concern is the vaccine itself — and particularly the side
+      effects that can come with it. These concerns can be about something the
+      vaccine really causes, like a day or two of aches, fever, and fatigue or,
+      in extremely rare cases, potentially blood clots. But they can also be
+      about things that aren’t real or proven, like other long-term health risks
+      or unproven claims about, for example, infertility.
+
+3. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Most diseases that vaccines target are relatively harmless in many cases,
+      thus making vaccines unnecessary. The chickenpox is often just a rash with
+      blisters and can be treated with acetaminophen, cool compresses, and
+      calamine lotion. The measles is normally a rash accompanied by a fever and
+      runny nose and can be treated with rest and fluids. Rubella is often just
+      a virus with a rash and low fever and can be treated with acetaminophen.
+      Rotavirus can normally be treated with hydration and probiotics.
+
+4. POWINNO BYĆ beneficial a jest ZAKWALIFIKOWANY  jako harmful
+      Thalidomide is a drug that was marketed as a treatment for morning
+      sickness in pregnant women in the late 1950s and early 60s and later
+      caused birth defects. This has understandably prompted distrust in
+      government guidance on public health issues. However, Thalidomide is not
+      comparable to a vaccine. Thalidomide went directly into the bloodstream,
+      whereas the Covid-19 vaccine gives antibodies which help fight off the
+      virus. Thalidomide was not properly tested and never went through the
+      monitoring system as the coronavirus vaccine has done. Dr Ruth Blue, a
+      consultant for the Thalidomide Society, said it was “a bit insulting that
+      suddenly Thalidomide gets remembered after all these years when it suits
+      anti-vaxxers to have something to compare to — but it isn’t a comparison.
+      “The outcome of Thalidomide completely changed the way drugs are tested
+      and are passed.” She added: “Vaccinations are a really fairly safe form of
+      medicine. They have been around for a very long time. There have been very
+      few problems with vaccinations over the years and it’s not really
+      comparable. They are a tried and tested science and they have saved
+      absolutely millions of lives. “Thalidomide did totally the opposite. It
+      wasn’t tested, it wasn’t tried out and it destroyed millions of lives.”
+
+5. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      In recent years there has been much controversy surrounding the MMR
+      vaccine. Some people used to think the vaccine - which is a combined
+      treatment against measles, mumps and rubella - could cause autism in
+      children. They decided not to risk letting their child have the vaccine
+      and hoped they would not catch measles, mumps or rubella.
+
+6. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Covid-19 is a coronavirus (like a cold). ALL coronaviruses can be
+      prevented and treated through more natural methods. All viruses mutate.
+      This means that to be “protected”, you must continually accept new
+      experimental vaccines or boosters. Most people who have taken the
+      vaccines, have done so out of fear or were bullied by society, corporate
+      America, or the government. Most people who have refused the vaccines,
+      have done so because of a lack of evidence for safety or effectiveness.
+      (Or, because they understand a great many things on this list.) Young
+      healthy people have a 99.9% chance of surviving Covid-19, if they even
+      contract the virus. Why is it that those promoting the vaccines for
+      children, demand that school children wear masks which are scientifically
+      proven to be useless against a virus, but proven to inhibit the immune
+      system?
+
+7. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      After 2 years of Covid ravaging America, less than 1 in 7 people have
+      statistically been known to contract the virus. That number is even less
+      when you consider the number of reinfections. Why are the number of
+      reinfections “rare” when desiring high numbers of cases, but “likely” when
+      referring to the un-vaccinated? Why would 100% of the population have to
+      take an experimental medical treatment, when the vast majority will
+      probably never even be infected by the virus, and if they were, most would
+      be very unlikely to die from it? It has been estimated that people over 70
+      are at least 10,000 times more likely to die from Covid-19 as those under
+      15 years old. If the vaccines were actually useful and necessary, would
+      the government have to resort to authoritarian measures to force people to
+      accept it?
+
+8. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      According to the CDC’s own numbers, Covid-19 has a 99.74% survival rate,
+      IF you even get the virus. Why would anyone, with enough brain matter to
+      think for themselves, risk a medical treatment, that doesn’t stop
+      infection or transmission, is statistically unnecessary for most people,
+      doesn’t last long, has to be continually redone, might kill you or injure
+      you for life, simply to help overcome a cold that has only a .26% (.16%
+      according to cases vs supposed deaths) chance of killing you if you were
+      to even get the virus?

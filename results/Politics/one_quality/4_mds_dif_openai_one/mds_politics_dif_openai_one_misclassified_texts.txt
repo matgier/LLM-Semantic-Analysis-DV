@@ -1,0 +1,369 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: economic_policy==================================================
+Łącznie próbek: 56Poprawnych klasyfikacji: 52 (92.86%)Błędnych klasyfikacji: 4 (7.14%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ market a jest ZAKWALIFIKOWANY  jako regulated
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+2. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+3. POWINNO BYĆ market a jest ZAKWALIFIKOWANY  jako regulated
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.
+
+4. POWINNO BYĆ market a jest ZAKWALIFIKOWANY  jako regulated
+      Two trends make domestic production an urgent priority. The first is the
+      high cost of energy, which is burdening all of us. In the last four years,
+      gasoline, electricity, and natural gas prices have risen by nearly a
+      third. Removing restrictions on our energy companies can bring down these
+      ballooning costs
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: government_role==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 69 (72.63%)Błędnych klasyfikacji: 26 (27.37%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The Democratic Party (whose logo is a donkey) generally represents
+      left-leaning, liberal and progressive ideological values, thus advocating
+      for a strong government to regulate business and support for the citizens
+      of the United States. Thus, one of the key values emphasized by Democrats
+      is social responsibility. Overall, Democrats believe that a prominent and
+      powerful government can ensure welfare and equality for all. Much like the
+      Republican Party, political opinions within the Democratic Party stretch
+      across a wide spectrum, as both parties are, to a large degree,
+      decentralized. However, from a general point of view, Democrats tend to
+      support heavy taxation of high-income households. In comparison to
+      Denmark, where taxes are generally high, the Democratic taxation policy
+      may not seem excessive, but on a U.S. taxation scale these tax percentages
+      are in the heavy end.
+
+2. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      We believe that no matter where we come from or what our color, most of us
+      want the same things. We want to earn enough to thrive, not just survive,
+      and leave a better future for our kids. We want healthy food and clean
+      water, safe neighborhoods and a safe world. We want to be free.
+
+3. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Democrats, which is the political party developed during Andrew Jackson’s
+      presidency, is known for being accepting and open-minded while placing a
+      strong emphasis on providing equal opportunities for all Americans despite
+      their race, sexuality, religion, or national origin. Democrats are often
+      looking to protect immigrants in the U.S. and will be supportive of
+      pro-choice, and as a result – Democrats often lead in creating
+      government-funded social programs that will seek to help these minorities.
+      In short, Democrats look to create equality and implement socialist values
+      where they see fit in order to achieve their key value of equal rights and
+      opportunities for all
+
+4. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The Deocratic platform has a strong emphasis on the shift to clean energy,
+      which Democrats say can also lower Americans' energy costs and create more
+      jobs. Here's what the goals include: Incentivize investment in
+      transmission line upgrades and new lines, which move wind and solar energy
+      from where they're generated to where people live. Scale up development of
+      clean energy on public lands. Invest in clean energy research and
+      innovation.
+
+5. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Advances in personal liberty in the free world advance equality and
+      inclusion; capitalism is diverse, socialism a dictatorship of conformity.
+      For free-marketeers, the nostrum that diversity is an advantage is not
+      only defensible but self-evident. It deserves better than to be
+      surrendered as a concept and term to the identarian Left
+
+6. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      With rapidity and stealth, diversity, equity and inclusion (DEI) ideology
+      has come to replace the classical liberal values of merit, fairness and
+      equality (MFE) in the academy, professional organizations, media,
+      government and large technology companies. DEI bureaucracies have
+      mushroomed. Many operate behind the scenes with ambiguous DEI definitions,
+      goals and policies
+
+7. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      New Democrats are committed to advancing real solutions that reduce health
+      care costs for families and seniors, increase choices for consumers, and
+      encourage participation by the young and healthy. To stabilize health
+      insurance markets and bring down the cost of healthcare for all Americans,
+      New Dems believe we must create a permanent reinsurance program, reduce
+      healthcare costs for low-income Americans, promote greater insurance
+      coverage, create a greater number of affordable insurance options, and
+      improve the marketplaces. New Democrats have sought ways to work with
+      Republicans for years to fix what is not working and strengthen the ACA,
+      but Republican actions continue to raise questions about their commitment
+      to join these efforts.
+
+8. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      DFLA is committed to expanding access to health care. Our members take a
+      variety of positions on how to do this. Some support a single-payer model,
+      while others advocate for an expansion of Obamacare. Since we are not
+      policy experts, we do not take a specific position on most health
+      care-related legislation, but we support efforts to advance access. As
+      Whole Life advocates, we believe that good healthcare is a critical Whole
+      Life issue. The United States, for its prosperity, has a disturbingly low
+      life expectancy, with many Americans struggling to pay hospital bills or
+      afford essential medication. We are proud of pro-life Democrat Governor
+      John Bel Edward’s landmark expansion of Medicaid in the state of
+      Louisiana: the only state in the Deep South to do so. Healthcare for
+      pregnant women In particular, we support efforts to provide healthcare to
+      women and families, which can reduce the pressure associating with
+      carrying a child to term. In a world where abortion is illegal, pre-natal,
+      and post-natal healthcare for women is absolutely critical.
+
+9. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Meanwhile, President Biden, Vice President Harris, and Democrats across
+      the country are fighting to defend women’s freedom to make their own
+      health care decisions
+
+10. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Vice President Kamala Harris, the Democratic party’s nominee, has already
+      indicated her support for abortion access and other forms of reproductive
+      health care. At one of her first campaign events, she stated that if
+      Congress “passes a law to restore reproductive freedom, as president of
+      the United States I will sign it into law.
+
+11. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Liberal Democrats, by contrast, are the least supportive of these
+      restrictive goals while being the most supportive of establishing a path
+      to legalization for undocumented immigrants in the country.
+
+12. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Yet, Democrats are generally seen as more pro-immigration, pushing for
+      pathways to citizenship, DACA protections, and less restrictive
+      immigration policies.
+
+13. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Half of both liberal (46%) and moderate (52%) Democrats support
+      maintaining current levels of legal immigration. But liberals tend to
+      endorse increasing legal immigration (44%) over decreasing it (9%), while
+      moderates are slightly more likely to say it should be decreased (27%)
+      than increased (20%). Majorities from both Democratic camps favor
+      accepting migrants from Taiwan, Ukraine, Haiti, Central America, India,
+      and Korea. Majorities of liberal Democrats also favor accepting immigrants
+      from Sudan, Afghanistan, Russia, and China; moderates are at best divided
+      and often opposed.
+
+14. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      We elect Democratic leaders who prioritize a high-quality equitable
+      education for all students. DFER is a national political organization that
+      supports elected Democrats and candidates for office who seek to expand
+      policies that improve the quality of education for America’s students.
+
+15. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The Democrats have been pushing hard on issues like support for the LGBTQ
+      community and Diversity, Equity, and Inclusion (DEI) initiatives, but it's
+      time to ask if this strategy is really winning us votes or just pushing
+      away the middle ground
+
+16. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      It is good that our leaders recognize the importance of creating a healthy
+      regulatory environment, but there is plenty more work to be done. Three
+      central pillars support a coherent deregulatory strategy: transparency,
+      presidential control, and substantive deregulation where permitted by law.
+      Thus far, many of the new administration’s statements and actions accord
+      with them.
+
+17. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+18. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      If we don't have a Border, we don't have a Country. Restoring sensible
+      Border Security and Immigration Policy requires many steps, all of which
+      would have been and indeed were taken for granted by prior Generations as
+      obviously necessary and good.
+
+19. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Religiously affiliated institutions broadly. A wide range of religiously
+      affiliated institutions have asserted that they have a legal and even
+      constitutional right to be exempted from government requirements, even
+      those designed to prevent discrimination. Those claims have not been
+      limited to decisions in hiring ministers and others with clearly religious
+      duties. Rather, institutions have often demanded that they be allowed to
+      discriminate on religious grounds even when hiring staff to fulfill
+      government grants. Moreover, institutions have insisted that they be
+      allowed to discriminate against LGBTQ individuals in regard to employment;
+      to ignore same-sex marriages in providing employee benefits; to fire
+      employees who have used abortion care, contraceptives or assisted
+      reproductive technology, or who have had sex or become pregnant outside of
+      marriage; or even to ignore federal law preventing discrimination on the
+      basis of disability.
+
+20. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Most importantly, policies must respect religious beliefs without harming
+      or infringing on the rights of others. Through options like the examples
+      below, policymakers can create the framework for a balanced, inclusive
+      vision of religious liberty throughout the United States.
+
+21. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Building the wall has long been one of Trump’s signature promises, but its
+      impacts beyond political symbolism are unclear. Illegal border crossings
+      have plunged since Trump took office in January amid a string of orders on
+      immigration, including the suspension of the asylum system. Simply ending
+      asylum meant tens of thousands of people who would’ve surrendered to law
+      enforcement instead of trying to avoid capture didn’t even attempt to
+      cross. Plus, the effectiveness of border walls is hotly debated, even in
+      populated areas where barriers tend to be heavily reinforced. Human
+      smugglers, often linked to drug cartels, have used tunnels, ladders and
+      power tools to cross walls.
+
+22. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Conservative Republicans are the most likely to express strong support for
+      more restrictive immigration goals such as increased border security and
+      increased deportations, even when compared with others in their party
+
+23. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+24. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans often frame energy policy within the context of national
+      security, emphasizing the need for a resilient and independent energy
+      system. Hydropower’s ability to provide baseload power and enhance grid
+      stability aligns with these goals. Moreover, its role in managing water
+      resources, such as flood control, irrigation, and navigation, adds another
+      layer of strategic importance.
+
+25. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Two trends make domestic production an urgent priority. The first is the
+      high cost of energy, which is burdening all of us. In the last four years,
+      gasoline, electricity, and natural gas prices have risen by nearly a
+      third. Removing restrictions on our energy companies can bring down these
+      ballooning costs
+
+26. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Deregulation is the reduction or elimination of government oversight of an
+      industry. Proponents of deregulation argue that deregulation creates more
+      competition and spurs economic growth. Opponents assert that deregulation
+      risks grave harm to consumers, workers, and the environment. The struggle
+      between proponents of regulation and those of government nonintervention
+      has shifted market conditions. Some of the sectors that have been
+      deregulated in the United States include trucking, railroads, and
+      airlines. The financial services industry has been regulated, deregulated,
+      and re-regulated over the years as events warranted.
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: social_policy==================================================
+Łącznie próbek: 88Poprawnych klasyfikacji: 80 (90.91%)Błędnych klasyfikacji: 8 (9.09%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Immigrants contribute to the strength, vitality, and dynamism of our
+      communities, our economy, and our culture; America is also a sovereign
+      nation whose government has the right and the duty to control our borders
+      and decide who to admit. The best way to harmonize these two traditions is
+      to overhaul our system to make legal immigration work and illegal
+      immigration stop.
+
+2. POWINNO BYĆ progressive a jest ZAKWALIFIKOWANY  jako traditional
+      Over 40,000 Americans lose their lives to gun violence every year. In
+      communities, courts, and ballot boxes nationwide, Giffords fights to save
+      lives from gun violence
+
+3. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Religiously affiliated institutions broadly. A wide range of religiously
+      affiliated institutions have asserted that they have a legal and even
+      constitutional right to be exempted from government requirements, even
+      those designed to prevent discrimination. Those claims have not been
+      limited to decisions in hiring ministers and others with clearly religious
+      duties. Rather, institutions have often demanded that they be allowed to
+      discriminate on religious grounds even when hiring staff to fulfill
+      government grants. Moreover, institutions have insisted that they be
+      allowed to discriminate against LGBTQ individuals in regard to employment;
+      to ignore same-sex marriages in providing employee benefits; to fire
+      employees who have used abortion care, contraceptives or assisted
+      reproductive technology, or who have had sex or become pregnant outside of
+      marriage; or even to ignore federal law preventing discrimination on the
+      basis of disability.
+
+4. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Most importantly, policies must respect religious beliefs without harming
+      or infringing on the rights of others. Through options like the examples
+      below, policymakers can create the framework for a balanced, inclusive
+      vision of religious liberty throughout the United States.
+
+5. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      The party opposes a government-run single-payer health care system,
+      claiming it constitutes socialized medicine. It favors a personal or
+      employer-based system of insurance supplemented by Medicare for the
+      elderly and Medicaid which covers approximately 40% of the poor.[citation
+      needed][19][failed verification] In 2003, Congress passed the Medicare
+      Modernization Act with bipartisan support creating Medicare Part D
+      covering prescription drugs. It was signed into law by President George W.
+      Bush.
+
+6. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Building the wall has long been one of Trump’s signature promises, but its
+      impacts beyond political symbolism are unclear. Illegal border crossings
+      have plunged since Trump took office in January amid a string of orders on
+      immigration, including the suspension of the asylum system. Simply ending
+      asylum meant tens of thousands of people who would’ve surrendered to law
+      enforcement instead of trying to avoid capture didn’t even attempt to
+      cross. Plus, the effectiveness of border walls is hotly debated, even in
+      populated areas where barriers tend to be heavily reinforced. Human
+      smugglers, often linked to drug cartels, have used tunnels, ladders and
+      power tools to cross walls.
+
+7. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.
+
+8. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Republicans broadly favor punitive approaches to immigration policy, such
+      as increasing deportations of people who are in the country illegally
+      (89%) and putting more severe penalties on business for hiring people
+      without legal work authorization (85%). Expanding the 700 miles of border
+      wall and fencing with Mexico is also a very popular policy among
+      Republicans (87% support), and as the 2023 Chicago Council Survey found,
+      majorities of Republicans (79%) favor using US troops to stop immigrants
+      from coming into the US from Mexico. Finally, Republicans are divided over
+      whether the US should make it easier for people fleeing violence in their
+      home countries to legally immigrate to the United States, with similar
+      proportions supporting (49%) and opposing (50%) such a policy.

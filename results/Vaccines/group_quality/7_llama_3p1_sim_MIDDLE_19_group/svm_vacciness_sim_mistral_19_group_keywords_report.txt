@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== vaccine_safety_beneficial ===
+20 słów kluczowych:
+ 1. vaccines            : 22       2. safety              : 19  
+ 3. effects             : 13       4. rare                : 13  
+ 5. minimal             : 13       6. rigorous            : 12  
+ 7. testing             : 12       8. mild                : 12  
+ 9. medical             : 11      10. interventions       : 11  
+11. scientific          : 11      12. proven              : 10  
+13. evidence            : 10      14. benefits            : 10  
+15. safe                : 9       16. through             : 9   
+17. multiple            : 9       18. clinical            : 9   
+19. trials              : 9       20. adverse             : 9   
+
+=== vaccine_safety_harmful ===
+20 słów kluczowych:
+ 1. vaccines            : 21       2. reactions           : 15  
+ 3. long-term           : 13       4. products            : 12  
+ 5. safety              : 12       6. adverse             : 11  
+ 7. dangerous           : 10       8. inadequate          : 10  
+ 9. testing             : 10      10. unacceptable        : 9   
+11. injuries            : 9       12. experimental        : 9   
+13. permanent           : 9       14. severe              : 9   
+15. recipients          : 9       16. consequences        : 9   
+17. medical             : 8       18. deaths              : 8   
+19. damage              : 8       20. fatal               : 8   
+
+=== vaccine_efficacy_effective ===
+20 słów kluczowych:
+ 1. protection          : 32       2. vaccines            : 25  
+ 3. infection           : 20       4. against             : 19  
+ 5. immunity            : 18       6. preventing          : 15  
+ 7. rates               : 13       8. disease             : 11  
+ 9. through             : 11      10. severe              : 10  
+11. transmission        : 10      12. demonstrate         : 9   
+13. variants            : 8       14. outcomes            : 8   
+15. herd                : 8       16. antibody            : 8   
+17. robust              : 7       18. long-lasting        : 7   
+19. targeted            : 7       20. efficacy            : 7   
+
+=== vaccine_efficacy_ineffective ===
+20 słów kluczowych:
+ 1. vaccines            : 23       2. immunity            : 23  
+ 3. rates               : 21       4. natural             : 21  
+ 5. protection          : 18       6. prevent             : 15  
+ 7. infection           : 14       8. breakthrough        : 14  
+ 9. transmission        : 12      10. populations         : 11  
+11. infections          : 11      12. survival            : 10  
+13. vaccinated          : 9       14. rapidly             : 9   
+15. superior            : 9       16. widespread          : 9   
+17. provide             : 8       18. against             : 8   
+19. booster             : 8       20. shots               : 8   
+
+=== vaccination_obligation_beneficial ===
+20 słów kluczowych:
+ 1. mandates            : 17       2. disease             : 16  
+ 3. protection          : 13       4. through             : 11  
+ 5. vulnerable          : 11       6. vaccination         : 11  
+ 7. social              : 10       8. immunity            : 10  
+ 9. public              : 10      10. populations         : 10  
+11. individuals         : 9       12. herd                : 9   
+13. health              : 9       14. create              : 8   
+15. responsibility      : 8       16. collective          : 8   
+17. cannot              : 8       18. vaccine             : 7   
+19. while               : 7       20. contract            : 7   
+
+=== vaccination_obligation_harmful ===
+20 słów kluczowych:
+ 1. medical             : 30       2. personal            : 19  
+ 3. mandates            : 14       4. vaccination         : 13  
+ 5. health              : 12       6. consent             : 11  
+ 7. bodily              : 11       8. individuals         : 11  
+ 9. informed            : 10      10. autonomy            : 10  
+11. without             : 9       12. freedom             : 9   
+13. rights              : 9       14. individual          : 9   
+15. circumstances       : 9       16. against             : 8   
+17. interventions       : 8       18. risk                : 8   
+19. decisions           : 8       20. vaccine             : 7   

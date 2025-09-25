@@ -1,0 +1,19 @@
+
+ECONOMIC_POLICY:
+  Dokładność: 0.9643
+  Precyzja:   0.9667
+  Czułość:    0.9643
+  Wynik F1:   0.9642
+
+GOVERNMENT_ROLE:
+  Dokładność: 0.9474
+  Precyzja:   0.9468
+  Czułość:    0.9528
+  Wynik F1:   0.9472
+
+SOCIAL_POLICY:
+  Dokładność: 0.9659
+  Precyzja:   0.9656
+  Czułość:    0.9664
+  Wynik F1:   0.9659
+============================================================

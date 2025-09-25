@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== vaccine_safety_beneficial ===
+20 słów kluczowych:
+ 1. safety              : 26       2. vaccines            : 23  
+ 3. monitoring          : 11       4. multiple            : 11  
+ 5. clinical            : 11       6. medical             : 11  
+ 7. extensive           : 10       8. serious             : 10  
+ 9. adverse             : 10      10. rare                : 10  
+11. risks               : 9       12. undergo             : 8   
+13. rigorous            : 8       14. testing             : 8   
+15. across              : 8       16. through             : 8   
+17. events              : 8       18. scientific          : 8   
+19. before              : 8       20. effects             : 8   
+
+=== vaccine_safety_harmful ===
+20 słów kluczowych:
+ 1. vaccines            : 22       2. safety              : 13  
+ 3. adverse             : 12       4. long-term           : 12  
+ 5. injuries            : 11       6. including           : 9   
+ 7. testing             : 9        8. damage              : 9   
+ 9. reactions           : 8       10. serious             : 7   
+11. documented          : 7       12. experimental        : 7   
+13. effects             : 7       14. risks               : 6   
+15. severe              : 6       16. systems             : 6   
+17. covid-19            : 6       18. rushed              : 6   
+19. under               : 6       20. emergency           : 6   
+
+=== vaccine_efficacy_effective ===
+20 słów kluczowych:
+ 1. vaccines            : 26       2. protection          : 14  
+ 3. against             : 13       4. diseases            : 12  
+ 5. rates               : 12       6. severe              : 11  
+ 7. disease             : 11       8. immunity            : 11  
+ 9. vaccinated          : 11      10. provide             : 10  
+11. vaccination         : 10      12. individuals         : 10  
+13. infections          : 10      14. robust              : 9   
+15. unvaccinated        : 9       16. transmission        : 8   
+17. through             : 8       18. populations         : 8   
+19. evidence            : 8       20. outcomes            : 7   
+
+=== vaccine_efficacy_ineffective ===
+20 słów kluczowych:
+ 1. vaccines            : 23       2. protection          : 18  
+ 3. immunity            : 17       4. rates               : 17  
+ 5. while               : 14       6. provide             : 12  
+ 7. vaccinated          : 11       8. vaccination         : 10  
+ 9. against             : 9       10. transmission        : 9   
+11. infection           : 8       12. natural             : 8   
+13. boosters            : 8       14. fundamental         : 8   
+15. breakthrough        : 8       16. disease             : 8   
+17. rapidly             : 8       18. covid-19            : 7   
+19. despite             : 7       20. superior            : 7   
+
+=== vaccination_obligation_beneficial ===
+20 słów kluczowych:
+ 1. vaccination         : 21       2. health              : 18  
+ 3. individual          : 16       4. public              : 13  
+ 5. personal            : 13       6. community           : 11  
+ 7. through             : 11       8. medical             : 11  
+ 9. mandates            : 11      10. cannot              : 10  
+11. responsibility      : 9       12. individuals         : 8   
+13. vulnerable          : 8       14. collective          : 8   
+15. protection          : 8       16. immunity            : 7   
+17. disease             : 7       18. healthcare          : 7   
+19. populations         : 7       20. diseases            : 7   
+
+=== vaccination_obligation_harmful ===
+20 słów kluczowych:
+ 1. medical             : 22       2. vaccination         : 16  
+ 3. health              : 16       4. individual          : 15  
+ 5. personal            : 15       6. public              : 11  
+ 7. individuals         : 10       8. ethical             : 9   
+ 9. autonomy            : 9       10. consent             : 9   
+11. social              : 8       12. decisions           : 8   
+13. bodily              : 8       14. without             : 8   
+15. mandates            : 8       16. interventions       : 7   
+17. informed            : 7       18. fundamental         : 6   
+19. rights              : 6       20. while               : 6   

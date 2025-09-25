@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== vaccine_safety_beneficial ===
+20 słów kluczowych:
+ 1. vaccines            : 3        2. medical             : 3   
+ 3. interventions       : 2        4. scientific          : 2   
+ 5. through             : 2        6. without             : 2   
+ 7. proven              : 1        8. safe                : 1   
+ 9. undergo             : 1       10. rigorous            : 1   
+11. testing             : 1       12. multiple            : 1   
+13. rounds              : 1       14. study               : 1   
+15. before              : 1       16. approval            : 1   
+17. demonstrating       : 1       18. rare                : 1   
+19. side                : 1       20. effects             : 1   
+
+=== vaccine_safety_harmful ===
+20 słów kluczowych:
+ 1. reactions           : 2        2. damage              : 2   
+ 3. harm                : 2        4. disorders           : 2   
+ 5. vaccine             : 2        6. vaccines            : 1   
+ 7. contain             : 1        8. demonstrably        : 1   
+ 9. toxic               : 1       10. ingredients         : 1   
+11. including           : 1       12. aluminum            : 1   
+13. compounds           : 1       14. formaldehyde        : 1   
+15. mercury             : 1       16. derivatives         : 1   
+17. directly            : 1       18. cause               : 1   
+19. severe              : 1       20. adverse             : 1   
+
+=== vaccine_efficacy_effective ===
+20 słów kluczowych:
+ 1. vaccines            : 3        2. vaccination         : 2   
+ 3. children            : 2        4. diseases            : 2   
+ 5. populations         : 2        6. demonstrate         : 1   
+ 7. exceptional         : 1        8. disease             : 1   
+ 9. prevention          : 1       10. efficacy            : 1   
+11. rates               : 1       12. 90                  : 1   
+13. -99                 : 1       14. through             : 1   
+15. rigorous            : 1       16. clinical            : 1   
+17. trials              : 1       18. real-world          : 1   
+19. epidemiological     : 1       20. studies             : 1   
+
+=== vaccine_efficacy_ineffective ===
+20 słów kluczowych:
+ 1. vaccinated          : 3        2. vaccines            : 2   
+ 3. deliver             : 2        4. protection          : 2   
+ 5. despite             : 2        6. unvaccinated        : 2   
+ 7. efficacy            : 2        8. infections          : 2   
+ 9. failed              : 1       10. grandiose           : 1   
+11. promises            : 1       12. evidenced           : 1   
+13. complete            : 1       14. collapse            : 1   
+15. official            : 1       16. narrative           : 1   
+17. predicting          : 1       18. catastrophe         : 1   
+19. instead             : 1       20. fully               : 1   
+
+=== vaccination_obligation_beneficial ===
+20 słów kluczowych:
+ 1. vaccinated          : 2        2. individuals         : 2   
+ 3. vaccination         : 1        4. represents          : 1   
+ 5. social              : 1        6. contract            : 1   
+ 7. benefits            : 1        8. entire              : 1   
+ 9. community           : 1       10. creating            : 1   
+11. herd                : 1       12. immunity            : 1   
+13. protects            : 1       14. vulnerable          : 1   
+15. populations         : 1       16. cannot              : 1   
+17. getting             : 1       18. only                : 1   
+19. protect             : 1       20. themselves          : 1   
+
+=== vaccination_obligation_harmful ===
+20 słów kluczowych:
+ 1. development         : 2        2. dangerously         : 2   
+ 3. accelerated         : 2        4. skipping            : 2   
+ 5. crucial             : 2        6. safety              : 2   
+ 7. steps               : 2        8. emergency           : 2   
+ 9. authorization       : 2       10. inadequately        : 2   
+11. tested              : 2       12. absent              : 2   
+13. long-term           : 2       14. studies             : 2   
+15. unwitting           : 2       16. test                : 2   
+17. subjects            : 2       18. experimental        : 2   
+19. intervention        : 2       20. vaccine             : 1   

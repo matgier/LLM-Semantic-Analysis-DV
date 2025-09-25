@@ -1,0 +1,187 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: economic_policy==================================================
+Łącznie próbek: 56Poprawnych klasyfikacji: 54 (96.43%)Błędnych klasyfikacji: 2 (3.57%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ market a jest ZAKWALIFIKOWANY  jako regulated
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+2. POWINNO BYĆ regulated a jest ZAKWALIFIKOWANY  jako market
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: government_role==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 83 (87.37%)Błędnych klasyfikacji: 12 (12.63%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Advances in personal liberty in the free world advance equality and
+      inclusion; capitalism is diverse, socialism a dictatorship of conformity.
+      For free-marketeers, the nostrum that diversity is an advantage is not
+      only defensible but self-evident. It deserves better than to be
+      surrendered as a concept and term to the identarian Left
+
+2. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      With rapidity and stealth, diversity, equity and inclusion (DEI) ideology
+      has come to replace the classical liberal values of merit, fairness and
+      equality (MFE) in the academy, professional organizations, media,
+      government and large technology companies. DEI bureaucracies have
+      mushroomed. Many operate behind the scenes with ambiguous DEI definitions,
+      goals and policies
+
+3. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Liberal Democrats, by contrast, are the least supportive of these
+      restrictive goals while being the most supportive of establishing a path
+      to legalization for undocumented immigrants in the country.
+
+4. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      Half of both liberal (46%) and moderate (52%) Democrats support
+      maintaining current levels of legal immigration. But liberals tend to
+      endorse increasing legal immigration (44%) over decreasing it (9%), while
+      moderates are slightly more likely to say it should be decreased (27%)
+      than increased (20%). Majorities from both Democratic camps favor
+      accepting migrants from Taiwan, Ukraine, Haiti, Central America, India,
+      and Korea. Majorities of liberal Democrats also favor accepting immigrants
+      from Sudan, Afghanistan, Russia, and China; moderates are at best divided
+      and often opposed.
+
+5. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      A majority of Republicans (65%) support police using military weapons and
+      armored vehicles
+
+6. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans are more likely than Democrats to support organized prayer in
+      public schools and to oppose the legal recognition of equal rights for
+      gays and lesbians (see gay rights movement). Regarding foreign policy, the
+      Republican Party traditionally has supported a strong national defense and
+      the aggressive pursuit of U.S. national security interests, even when it
+      entails acting unilaterally or in opposition to the views of the
+      international community.
+
+7. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      The first obligation of the federal government is to provide for the
+      “common defense” of the United States by securing our borders and
+      protecting our homeland and our strategic interests abroad. We are not
+      “the world’s police force,” but because America serves in a natural role
+      of moral leadership in an increasingly dangerous world, and weakness
+      invites aggression, we must remain the strongest military power on
+      earth—fully prepared and capable of defeating any adversaries, tyrants or
+      terrorists, under any circumstances, at any time. This requires
+      maintaining sufficient investments in our air, land, sea, nuclear, and
+      cyber capabilities to deter foreign aggression, and properly training,
+      equipping, and supporting our troops and their families, as well as our
+      veterans and wounded warriors.
+
+8. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      If we don't have a Border, we don't have a Country. Restoring sensible
+      Border Security and Immigration Policy requires many steps, all of which
+      would have been and indeed were taken for granted by prior Generations as
+      obviously necessary and good.
+
+9. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans traditionally have believed in facing the facts as they are
+      and leading in the world because our belief in freedom and justice
+      deserved respect based on how we acted. This has included proper
+      alliances, forging common ground and moral, principled leadership.
+
+10. POWINNO BYĆ strong a jest ZAKWALIFIKOWANY  jako weak
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+11. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.
+
+12. POWINNO BYĆ weak a jest ZAKWALIFIKOWANY  jako strong
+      Republicans often frame energy policy within the context of national
+      security, emphasizing the need for a resilient and independent energy
+      system. Hydropower’s ability to provide baseload power and enhance grid
+      stability aligns with these goals. Moreover, its role in managing water
+      resources, such as flood control, irrigation, and navigation, adds another
+      layer of strategic importance.
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: social_policy==================================================
+Łącznie próbek: 88Poprawnych klasyfikacji: 82 (93.18%)Błędnych klasyfikacji: 6 (6.82%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Immigrants contribute to the strength, vitality, and dynamism of our
+      communities, our economy, and our culture; America is also a sovereign
+      nation whose government has the right and the duty to control our borders
+      and decide who to admit. The best way to harmonize these two traditions is
+      to overhaul our system to make legal immigration work and illegal
+      immigration stop.
+
+2. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      If we don't have a Border, we don't have a Country. Restoring sensible
+      Border Security and Immigration Policy requires many steps, all of which
+      would have been and indeed were taken for granted by prior Generations as
+      obviously necessary and good.
+
+3. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Looking ahead, the Trump administration and GOP are in a position to
+      accelerate their health agenda with four key themes:, Flexibility and
+      choice: Shift decision making on healthcare from federal level to states
+      and individuals, Fiscal conservatism: Emphasize policies that reduce
+      government spending in an effort to balance the budget and pass upcoming
+      tax legislation, Public health reform: Revaluate the current health system
+      to “Make America Healthy Again”, Deregulation: Reduce the volume of
+      existing federal regulations
+
+4. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Building the wall has long been one of Trump’s signature promises, but its
+      impacts beyond political symbolism are unclear. Illegal border crossings
+      have plunged since Trump took office in January amid a string of orders on
+      immigration, including the suspension of the asylum system. Simply ending
+      asylum meant tens of thousands of people who would’ve surrendered to law
+      enforcement instead of trying to avoid capture didn’t even attempt to
+      cross. Plus, the effectiveness of border walls is hotly debated, even in
+      populated areas where barriers tend to be heavily reinforced. Human
+      smugglers, often linked to drug cartels, have used tunnels, ladders and
+      power tools to cross walls.
+
+5. POWINNO BYĆ progressive a jest ZAKWALIFIKOWANY  jako traditional
+      The House Republican reconciliation bill would give huge tax breaks to
+      wealthy individuals, businesses, and large corporations while leaving
+      behind or raising costs for millions of working families. Here are some of
+      the impacts
+
+6. POWINNO BYĆ traditional a jest ZAKWALIFIKOWANY  jako progressive
+      Republicans are prioritizing the American people over the Democrat’s
+      radical climate agenda. On his first day in office, President Biden
+      started the war on American energy. He has revoked the permit for the
+      Keystone XL pipeline, imposed a moratorium on oil production on federal
+      lands, directed agencies across the Federal government to impose punitive
+      and burdensome regulations, and made us more reliant on China.
+      Predictably, gas prices skyrocketed to the highest levels in American
+      history. People are counting on us to improve their quality of life. H.R.
+      1 delivers on that promise and will ensure America continues to lead the
+      world at reducing emissions. I commend the passing of this package, which
+      will boost energy production, lift regulatory burdens for the construction
+      of more energy infrastructure, cut China out of our critical materials
+      supply chains, and lower costs across the board. H.R. 1 is how we build a
+      better and more secure future for all Americans.

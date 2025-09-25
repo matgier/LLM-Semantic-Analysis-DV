@@ -1,0 +1,80 @@
+
+===== SŁOWA KLUCZOWE DLA KATEGORII =====
+
+=== government_role_strong ===
+20 słów kluczowych:
+ 1. government          : 31       2. social              : 18  
+ 3. citizens            : 12       4. society             : 12  
+ 5. collective          : 11       6. through             : 11  
+ 7. welfare             : 10       8. intervention        : 10  
+ 9. business            : 9       10. programs            : 9   
+11. vulnerable          : 9       12. populations         : 9   
+13. ensure              : 9       14. strong              : 9   
+15. economic            : 8       16. public              : 8   
+17. necessary           : 7       18. activities          : 7   
+19. provide             : 7       20. address             : 7   
+
+=== government_role_weak ===
+20 słów kluczowych:
+ 1. government          : 32       2. individual          : 13  
+ 3. authority           : 12       4. liberty             : 10  
+ 5. freedom             : 10       6. private             : 9   
+ 7. minimal             : 8        8. federal             : 8   
+ 9. functions           : 8       10. political           : 7   
+11. personal            : 7       12. power               : 7   
+13. economic            : 7       14. perspective         : 6   
+15. emphasizing         : 6       16. decentralized       : 6   
+17. rights              : 6       18. limited             : 6   
+19. intervention        : 6       20. sector              : 6   
+
+=== social_policy_progressive ===
+20 słów kluczowych:
+ 1. social              : 33       2. rights              : 18  
+ 3. access              : 17       4. policies            : 15  
+ 5. healthcare          : 15       6. government          : 13  
+ 7. progressive         : 11       8. services            : 11  
+ 9. lgbtq               : 10      10. protections         : 10  
+11. including           : 9       12. marginalized        : 9   
+13. groups              : 9       14. reproductive        : 9   
+15. policy              : 8       16. expanded            : 8   
+17. equal               : 8       18. collective          : 8   
+19. universal           : 7       20. through             : 7   
+
+=== social_policy_traditional ===
+20 słów kluczowych:
+ 1. social              : 24       2. religious           : 20  
+ 3. moral               : 18       4. traditional         : 18  
+ 5. values              : 16       6. cultural            : 14  
+ 7. family              : 13       8. government          : 11  
+ 9. life                : 10      10. institutions        : 9   
+11. established         : 8       12. perspective         : 8   
+13. personal            : 8       14. structures          : 8   
+15. through             : 7       16. historical          : 7   
+17. liberty             : 7       18. public              : 7   
+19. national            : 6       20. norms               : 6   
+
+=== economic_policy_regulated ===
+20 słów kluczowych:
+ 1. economic            : 28       2. social              : 16  
+ 3. public              : 12       4. progressive         : 10  
+ 5. taxation            : 10       6. investment          : 10  
+ 7. infrastructure      : 10       8. market              : 10  
+ 9. approach            : 9       10. safety              : 9   
+11. fair                : 8       12. labor               : 8   
+13. rights              : 8       14. higher              : 8   
+15. government          : 8       16. through             : 8   
+17. supports            : 7       18. programs            : 7   
+19. vulnerable          : 7       20. populations         : 7   
+
+=== economic_policy_free_market ===
+20 słów kluczowych:
+ 1. economic            : 44       2. government          : 22  
+ 3. market              : 21       4. through             : 15  
+ 5. free                : 14       6. business            : 14  
+ 7. growth              : 13       8. prosperity          : 11  
+ 9. freedom             : 10      10. tax                 : 10  
+11. private             : 9       12. individual          : 9   
+13. innovation          : 9       14. policy              : 8   
+15. limited             : 7       16. intervention        : 7   
+17. pole                : 7       18. perspective         : 6   
+19. deregulation        : 6       20. markets             : 6   

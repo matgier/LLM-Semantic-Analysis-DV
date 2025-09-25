@@ -1,0 +1,436 @@
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccination_obligation==================================================
+Łącznie próbek: 117Poprawnych klasyfikacji: 95 (81.20%)Błędnych klasyfikacji: 22 (18.80%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Can the dramatic increase in autism be ascribed to change in diagnostic
+      practice? Data from the recent California report from the Office of
+      Developmental Services belie this contention. The Figure 1 juxtaposes the
+      data from California with those from north-west London. Identical temporal
+      trends are shown, with the rise in autism from a steady baseline value,
+      coinciding with the introduction of MMR vaccine as the single strategy in
+      both countries that use the same diagnostic criteria for autism.
+
+2. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Another concern stems from the fact that the COVID-19 vaccine causes our
+      cells to produce the virus protein themselves, which is a feature of mRNA
+      vaccines, rather than directly introducing the virus protein into the body
+      like a traditional vaccine would.
+
+3. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Beyond concerns about side effects, many of the hesitant just don’t have
+      much trust in the vaccines. They may believe that the process for the
+      vaccines was too fast — it was, after all, a record time from conception
+      to mass production. They may note the vaccines aren’t even technically
+      approved by the Food and Drug Administration since the agency has only
+      authorized them for emergency use.
+
+4. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      For some, the concern is the vaccine itself — and particularly the side
+      effects that can come with it. These concerns can be about something the
+      vaccine really causes, like a day or two of aches, fever, and fatigue or,
+      in extremely rare cases, potentially blood clots. But they can also be
+      about things that aren’t real or proven, like other long-term health risks
+      or unproven claims about, for example, infertility.
+
+5. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      The first reason relates to the view that healthcare is a matter of
+      personal risk, choice, and responsibility. Many parents, across the
+      spectrum of vaccination attitudes, hold this worldview. Yet some parents
+      see this worldview as being in conflict with vaccination promotion
+      messages. These messages emphasise population-level risk and community
+      health. This perceived tension may lead some parents to be hesitant about
+      vaccination for their children.
+
+6. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      The second reason relates to the impact of social exclusion. Exclusion can
+      take many different forms: economic, political, and cultural. All these
+      forms can lay the foundation for distrust, alienation, resentment, and
+      demotivation. Parents who are socially excluded may be hesitant about
+      vaccination because they distrust vaccines and those delivering them. Or
+      it may be a form of resistance or a mechanism to bring about change. It
+      may be that vaccination takes time and comes with opportunity costs for
+      these parents.
+
+7. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Most diseases that vaccines target are relatively harmless in many cases,
+      thus making vaccines unnecessary. The chickenpox is often just a rash with
+      blisters and can be treated with acetaminophen, cool compresses, and
+      calamine lotion. The measles is normally a rash accompanied by a fever and
+      runny nose and can be treated with rest and fluids. Rubella is often just
+      a virus with a rash and low fever and can be treated with acetaminophen.
+      Rotavirus can normally be treated with hydration and probiotics.
+
+8. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Research into immunisation has been based on the theory that the benefits
+      of immunisation far outweigh the risks from delayed adverse events and so
+      long term safety studies do not need to be performed. When looking at
+      diabetes—only one potential chronic adverse event—we found that the rise
+      in the prevalence of diabetes may more than offset the expected decline in
+      long term complications of H influenzae meningitis. Thus diabetes induced
+      by vaccine should not be considered a rare potential adverse event. The
+      incidence of many other chronic immunological diseases, including asthma,
+      allergies, and immune mediated cancers, has risen rapidly and may also be
+      linked to immunisation.
+
+9. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Parental refusal of vaccines is a growing a concern for the increased
+      occurrence of vaccine preventable diseases in children. A number of
+      studies have looked into the reasons that parents refuse, delay, or are
+      hesitant to vaccinate their child(ren). These reasons vary widely between
+      parents, but they can be encompassed in 4 overarching categories. The 4
+      categories are religious reasons, personal beliefs or philosophical
+      reasons, safety concerns, and a desire for more information from
+      healthcare providers. Parental concerns about vaccines in each category
+      lead to a wide spectrum of decisions varying from parents completely
+      refusing all vaccinations to only delaying vaccinations so that they are
+      more spread out. A large subset of parents admits to having concerns and
+      questions about childhood vaccinations. For this reason, it can be helpful
+      for pharmacists and other healthcare providers to understand the cited
+      reasons for hesitancy so they are better prepared to educate their
+      patients' families. Education is a key player in equipping parents with
+      the necessary information so that they can make responsible immunization
+      decisions for their children.
+
+10. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Proponents of vaccine mandates typically claim that everyone who can be
+      vaccinated has a moral or ethical obligation to do so for the sake of
+      those who cannot be vaccinated, or in the interest of public health. I
+      evaluate several previously undertheorised premises implicit to the
+      ‘obligation to vaccinate’ type of arguments and show that the general
+      conclusion is false: there is neither a moral obligation to vaccinate nor
+      a sound ethical basis to mandate vaccination under any circumstances, even
+      for hypothetical vaccines that are medically risk-free. Agent autonomy
+      with respect to self-constitution has absolute normative priority over
+      reduction or elimination of the associated risks to life. In practical
+      terms, mandatory vaccination amounts to discrimination against healthy,
+      innate biological characteristics, which goes against the established
+      ethical norms and is also defeasible a priori.
+
+11. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Some people don’t get flu vaccines for themselves or for their children.
+      There are several reasons for this, including: The flu vaccine doesn’t
+      protect against all strains of the flu. The vaccination needs to be given
+      every year. The vaccination could make them sick, which is false.
+
+12. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      In recent years there has been much controversy surrounding the MMR
+      vaccine. Some people used to think the vaccine - which is a combined
+      treatment against measles, mumps and rubella - could cause autism in
+      children. They decided not to risk letting their child have the vaccine
+      and hoped they would not catch measles, mumps or rubella.
+
+13. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      After 2 years of Covid ravaging America, less than 1 in 7 people have
+      statistically been known to contract the virus. That number is even less
+      when you consider the number of reinfections. Why are the number of
+      reinfections “rare” when desiring high numbers of cases, but “likely” when
+      referring to the un-vaccinated? Why would 100% of the population have to
+      take an experimental medical treatment, when the vast majority will
+      probably never even be infected by the virus, and if they were, most would
+      be very unlikely to die from it? It has been estimated that people over 70
+      are at least 10,000 times more likely to die from Covid-19 as those under
+      15 years old. If the vaccines were actually useful and necessary, would
+      the government have to resort to authoritarian measures to force people to
+      accept it?
+
+14. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Since the vaccinated can still get the virus, if the vaccines work then
+      why isn’t the survival rate increasing? If the vaccines are effective, why
+      aren’t the number of cases decreasing? If the survival rate isn’t
+      increasing, and the number of cases isn’t decreasing, can we view the
+      vaccines as anything less than a total and complete failure? In two years
+      of being demanded that we wear masks, and still no evidence that they do
+      any good, how many years do we have to wait for evidence that the vaccines
+      work? Why is any attempt to present facts which may question the
+      government narrative, instantly labeled as misinformation, disinformation,
+      or conspiracy theories?
+
+15. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      The three manufacturers, Pfizer, Moderna, And Johnson & Johnson have said
+      don’t take their vaccines if you have allergies, you are pregnant or
+      breastfeeding, you have a bleeding disorder or are on blood thinner, you
+      have heart disease, you have a fever, you have taken another vaccine, or
+      if you are immunocompromised or on a medicine which affects your immune
+      system.
+
+16. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Perhaps the most pertinent finding is that, due to the discovery of a
+      widespread memory-type antibody response to SARS-CoV-2, the antibodies
+      induced by the COVID-19 vaccines can be expected to activate the so-called
+      complement system. This can bring about the destruction of any cell that
+      manufactures the SARS-CoV-2 spike protein, particularly in the
+      circulation. If that happens to the endothelia, that is, the cell layer
+      that lines the inner surfaces of our blood vessels, then those vessels may
+      begin to leak [6] and clots will form. Given that 2021 research showed the
+      spike protein to enter the bloodstream shortly after vaccination [5], this
+      dangerous endothelial involvement in spike-production is highly likely,
+      and should be expected to occur. As stark as these medical realities may
+      be, the silver lining is that the same antibody profile, along with
+      previously documented T-cell immunity [7–11], protects around 99% of the
+      population against life- threatening SARS-CoV-2 infections. This ties in
+      with the known fact that over 99% of people are safe from death with
+      COVID-19 [12–14].
+
+17. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      While the now clearly established widespread cross-immunity against
+      SARS-CoV-2 implies that most of us are safe from severe COVID-19 disease,
+      it also means that we are vulnerable to the harms of gene- based vaccines.
+      Due to recall immunity against the virus, vaccination will cause our
+      immune systems to fight aggressively against not only the SARS-CoV-2 spike
+      protein, but against ourselves. This deleterious autoimmune attack must be
+      expected to intensify with each repeated injection. The COVID-19 vaccine
+      technology’s interaction with the immune system creates the following four
+      specific problems: Flying under the immune system’s radar with the
+      vaccine’s genetic code 2. Delivering the spike protein into the
+      bloodstream Inducing immune attack on the blood vessel lining Enhancing
+      the severity of natural infection 2.4.1. Flying Under the Immune System’s
+      Radar with the Vaccine’s Genetic Code To understand why COVID-19 vaccine
+      technology is dangerous, it is necessary to first understand how the
+      gene-based vaccines differ from traditional vaccination methods. A
+      conventional viral vaccine can be a live virus strain derived from the
+      pathogenic virus that has been attenuated through one or more genetic
+      mutations, or it can consist of chemically inactivated virus particles
+      that are no longer able to infect any cells. In both cases, protein
+      antigens will be exposed on the surface of the vaccine particles, which
+      can be recognized by antibodies once these have been formed. COVID-19
+      vaccines, on the other hand, are not protein antigens but the genetic
+      blueprint for the SARS- CoV-2 spike protein antigen. That blueprint comes
+      in the form of mRNA or DNA, which, after vaccination, enters our body’s
+      cells and instructs those cells to manufacture the spike protein. The
+      spike protein then protrudes from the cell and induces antibody formation.
+      In response, the immune system will react not only with the spike protein,
+      but will attack and try to destroy the entire cell. If we are injected
+      with a traditional live virus vaccine to which we have no immunity, then
+      these vaccine virus particles will also infect some of our body cells and
+      propagate within them. Two kinds of immune reactions will then occur:
+      Cytotoxic T-lymphocytes (killer T-cells) (see section 2.4.3.1) that
+      recognize viral protein fragments associated with the infected cells will
+      proliferate, attack, and destroy the infected cells. B-lymphocytes that
+      recognize viral proteins (see section 2.4.3.2) will proliferate and start
+      producing antibodies—soluble protein molecules that can recognize and
+      neutralize virus particles.
+
+18. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      This immune reaction will in principle resemble that to an infection with
+      the corresponding wild-type virus. It will be milder, since the vaccine
+      strain of the virus has been attenuated; however, some cells will get
+      destroyed in the process, which may sometimes cause functional organ
+      damage. Live virus vaccines therefore tend to be more prone to adverse
+      reactions than are inactivated virus vaccines. Now, a key point to note is
+      that if we inject a live traditional vaccine into a person who is already
+      immune —due to either a previous vaccination, or to prior infection with
+      the corresponding wild-type virus—the extent of cell destruction will be
+      much reduced. Such a person will already have antibodies to the virus;
+      these will recognize the viral protein antigens and will bind and
+      inactivate most of the vaccine virus particles before they manage to
+      infect a cell. Therefore, even though the killer T-cells may be all riled
+      up, they will not find very many infected cells to pounce on. The crucial
+      difference between a conventional live virus vaccine and a gene-based
+      COVID vaccine—and in particular an mRNA vaccine—is that the latter
+      contains no protein antigens whatsoever; instead, it only contains the
+      blueprint for their synthesis inside the infected cells. Therefore, if
+      such a vaccine is injected into a person with antibodies and existing
+      T-cell immunity, the vaccine particles will “fly under the radar” of the
+      antibody defence and reach our body cells unimpeded. The cells will then
+      produce the spike protein, and subsequently be destroyed and attacked by
+      the killer T-cells. The antibodies, rather than preventing the carnage,
+      will join in by also binding to the cell-associated spike protein and
+      directing the complement system (see later) and other immune effector
+      mechanisms against these cells. In a nutshell, pre-existing immunity
+      mitigates the risk of conventional vaccines, but it amplifies the risk of
+      gene-based vaccines. Importantly, before COVID, this risky gene-based
+      vaccine technology had never before been used on a wide scale against
+      infectious disease and is inherently experimental. The COVID-19
+      vaccination program is thus the largest human experiment ever performed in
+      history.
+
+19. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      2.4.3.2. Antibodies Before the new discoveries of 2021, scientists’
+      concerns about clotting and bleeding were based primarily on the
+      prediction that killer T-cells would attack spike-producing endothelial
+      cells, causing lesions on vessel linings and promoting blood clots. While
+      this mechanism remains valid, we now know that a memory-type antibody
+      response will join the attack on the vessel walls as well. Whereas killer
+      T-cells attack their targets cell-to-cell, antibodies are proteins that
+      exert their effect by binding to signature structures on the pathogen’s
+      surface, known as epitopes. Instead of destroying cells directly, once
+      attached to an epitope, antibodies help to defeat invaders by “calling out
+      the cavalry” on infected cells. This leads to the second process by which
+      cells coated with viral spikes will inadvertently come under immune
+      attack. “Calling out the cavalry” means that the antibodies attached to
+      the unnaturally created spikes will trigger activation of the complement
+      system, which thereupon will mount a massive attack on the endothelial
+      cells. Importantly for deciphering the recent discoveries on SARS-CoV-2
+      immunity, the first time that the immune system encounters a new pathogen,
+      new antibodies in a shape capable of binding to that pathogen’s epitopes
+      must be formed (by immune cells known as B-cells). First-time antibody
+      production is slow, taking approximately four weeks. Should the same
+      pathogen or family of pathogens invade again, however, memory-type
+      antibodies are then manufactured more rapidly, within one to two weeks.
+      This is a cardinal sign that the immune system has seen that pathogen
+      before. Another defining feature of a memory antibody response concerns
+      the order in which antibody sub-types are produced. If a pathogen is new,
+      IgM is the first type of antibody to arrive on the scene. It is followed
+      later by IgG and IgA. The next time the pathogen arrives, however, IgG and
+      IgA will be the first to arrive, indicating that the virus, or its
+      relatives, have invaded before. Importantly, this is precisely what we see
+      with COVID-19. Several research groups found in 2021 that upon first
+      exposure to SARS-CoV-2, and following COVID-19 vaccination, the antibody
+      response was characteristic of the memory type, due both to the timing and
+      nature of antibodies measured. [xv-xvii] As a result, we now know that our
+      immune systems recognise SARS-CoV-2 at first sight, even “on the slightest
+      viral challenge” [5]. In other words, SARS-CoV-2 is not a novel
+      coronavirus after all. With respect to variants and the need for booster
+      shots, memory B-cells, like memory T-cells, can recognise not only a
+      specific virus, but a whole family of viruses bearing related epitopes. It
+      is unsurprising, therefore, that memory B-cells recognise SARS-CoV-2 from
+      the common cold. With cross immunity this robust, closer relatives of
+      SARS-CoV-2 in the form of variants will pose no obstacle to our antibody
+      response. The rising “cases”, hospitalisations and deaths attributed to
+      Delta and other variants are therefore almost certainly driven by false
+      positive PCR results and misclassification than by a true increase in
+      COVID-19 disease. Indeed, according to Public Health England data, the
+      Delta variant is non- lethal in those under 50, and less than half as
+      lethal as earlier strains in older age groups [26]. But why haven’t
+      circulating antibodies to SARS-CoV-2 been detected in populations before?
+      The answer is that neither the antibodies nor T-cells associated with a
+      memory-type response circulate in the bloodstream. Once they are no longer
+      needed, they become dormant, existing as a memory alone. Unless elicited
+      by re-exposure to a virus, they remain invisible in the bloodstream. The
+      dormant antibodies will, however, be ready and waiting to re-activate and
+      call out the cavalry on the spike protein, in the form of the complement
+      cascade.
+
+20. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      2.4.3.3. Complement Recent findings indicate that complement activation is
+      a serious concern with respect to COVID-19 vaccine-immune interactions. In
+      light of the newly characterised antibody response to SARS-CoV-2, when
+      antibodies attach to spike- producing endothelial cells on vessel walls
+      following vaccine administration, activated complement proteins can be
+      expected attach to the endothelial cells, and perforate their cell
+      membranes [27,28]. The ensuing death of the endothelial cells will expose
+      the tissue underneath the epithelium, which will initiate two significant
+      events. It will induce blood clotting, and will cause the vessel walls to
+      leak [6]. This pathogenic mechanism has been documented in biopsies taken
+      from SARS-CoV-2-infected patients [19,29]. Those studies have described a
+      “catastrophic microvascular injury syndrome mediated by activation of
+      complement” [29] as part of the SARS-CoV-2 spike protein immune response.
+      It is precisely this immune response that COVID-19 vaccines seek to
+      induce. Such vaccine-immune interactions are consistent with adverse
+      events involving visible capillary rupture under the skin that have been
+      documented and reported following COVID-19 vaccination [30–33].
+
+21. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      CLS is an extremely rare, serious condition that causes fluid to leak from
+      small blood vessels (capillaries), causing rapid swelling of the arms and
+      legs, sudden weight gain, feeling faint, thickening of the blood, low
+      levels of albumin in the blood (an important blood protein) and low blood
+      pressure. CLS is commonly associated with viral infections, some blood
+      cancers, inflammatory diseases, and some treatments. CLS is already a
+      known side effect of the AstraZeneca vector vaccine. The EMA examined 11
+      reported cases of CLS after the Spikevax vaccination and 44 cases that
+      occurred after the Comirnaty (Pfizer for BioNTech) shot. With Comirnaty
+      more frequently used, its incidence rate occurred at a lower ratio. As a
+      result, regulators concluded that only Spikevax required a warning of the
+      disease. In addition, the regulators also claim there to be insufficient
+      evidence to attribute these new CLS cases to the vaccines. Instead, they
+      assert the Covid shot would likely only cause a resurgence of the disease.
+
+22. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      “We will have a safety profile for only a certain number of months, so if
+      there is a long-term effect after two years, we cannot know,” Brosh said,
+      adding that we could wait two years to discover them, “but then we would
+      have the coronavirus for two more years.” Linial expressed similar
+      sentiments: “Classical vaccines were designed to take 10 years to develop.
+      I don’t think the world can wait for a classical vaccine.” But when asked
+      if she would take the vaccine right away, she responded: “I won’t be
+      taking it immediately – probably not for at least the coming year,” she
+      told the Post. “We have to wait and see whether it really works.”
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccine_efficacy==================================================
+Łącznie próbek: 95Poprawnych klasyfikacji: 93 (97.89%)Błędnych klasyfikacji: 2 (2.11%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ effective a jest ZAKWALIFIKOWANY  jako ineffective
+      So vaccines are NOT safe by design. Safety by testing ALONE, is an
+      unacceptable strategy for such a safety critical product. And it is too
+      late when the safety problems are detected in the general public, as is
+      the case now and as clearly demonstrated by the Pandemrix induced
+      narcolepsy disaster. The Institute of Medicine (IOM) lamented in 2012 that
+      "for the majority of cases (135 vaccine-adverse event pairs), the evidence
+      was inadequate to accept or reject a causal relationship." The evidence
+      for vaccine safety claims simply does NOT exist. Many epidemiological
+      vaccine safety studies make the basic mistake of declaring "lack of
+      association" because the confidence interval of the odds ratio does not
+      span the null value. These conclusions are simply wrong. Mechanistic
+      evidence clearly demonstrates vaccines cause food allergies, asthma⁠,
+      autism and many autoimmune diseases including type 1 diabetes.
+
+2. POWINNO BYĆ ineffective a jest ZAKWALIFIKOWANY  jako effective
+      Some people don’t get flu vaccines for themselves or for their children.
+      There are several reasons for this, including: The flu vaccine doesn’t
+      protect against all strains of the flu. The vaccination needs to be given
+      every year. The vaccination could make them sick, which is false.
+
+==================================================BŁĘDNE KLASYFIKACJE DLA OSI: vaccine_safety==================================================
+Łącznie próbek: 104Poprawnych klasyfikacji: 97 (93.27%)Błędnych klasyfikacji: 7 (6.73%)Błędne klasyfikacje:
+
+1. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Can the dramatic increase in autism be ascribed to change in diagnostic
+      practice? Data from the recent California report from the Office of
+      Developmental Services belie this contention. The Figure 1 juxtaposes the
+      data from California with those from north-west London. Identical temporal
+      trends are shown, with the rise in autism from a steady baseline value,
+      coinciding with the introduction of MMR vaccine as the single strategy in
+      both countries that use the same diagnostic criteria for autism.
+
+2. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Severe side effects: we would also expect to see 1 to 2 people experience
+      a severe complication like TTS. The risks of TTS are higher for younger
+      people, especially those under 60 years. Anyone who develops severe
+      headaches and tiredness up to 30 days after the first dose should seek
+      medical help immediately. It’s important to know that even if someone
+      becomes ill with TTS, doctors now have a better understanding of the
+      condition. It’s much easier to diagnose and get the right treatment, so
+      the chances of recovery are higher than they were before.
+
+3. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Beyond concerns about side effects, many of the hesitant just don’t have
+      much trust in the vaccines. They may believe that the process for the
+      vaccines was too fast — it was, after all, a record time from conception
+      to mass production. They may note the vaccines aren’t even technically
+      approved by the Food and Drug Administration since the agency has only
+      authorized them for emergency use.
+
+4. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Most diseases that vaccines target are relatively harmless in many cases,
+      thus making vaccines unnecessary. The chickenpox is often just a rash with
+      blisters and can be treated with acetaminophen, cool compresses, and
+      calamine lotion. The measles is normally a rash accompanied by a fever and
+      runny nose and can be treated with rest and fluids. Rubella is often just
+      a virus with a rash and low fever and can be treated with acetaminophen.
+      Rotavirus can normally be treated with hydration and probiotics.
+
+5. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      Some people don’t get flu vaccines for themselves or for their children.
+      There are several reasons for this, including: The flu vaccine doesn’t
+      protect against all strains of the flu. The vaccination needs to be given
+      every year. The vaccination could make them sick, which is false.
+
+6. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      In recent years there has been much controversy surrounding the MMR
+      vaccine. Some people used to think the vaccine - which is a combined
+      treatment against measles, mumps and rubella - could cause autism in
+      children. They decided not to risk letting their child have the vaccine
+      and hoped they would not catch measles, mumps or rubella.
+
+7. POWINNO BYĆ harmful a jest ZAKWALIFIKOWANY  jako beneficial
+      “We will have a safety profile for only a certain number of months, so if
+      there is a long-term effect after two years, we cannot know,” Brosh said,
+      adding that we could wait two years to discover them, “but then we would
+      have the coronavirus for two more years.” Linial expressed similar
+      sentiments: “Classical vaccines were designed to take 10 years to develop.
+      I don’t think the world can wait for a classical vaccine.” But when asked
+      if she would take the vaccine right away, she responded: “I won’t be
+      taking it immediately – probably not for at least the coming year,” she
+      told the Post. “We have to wait and see whether it really works.”

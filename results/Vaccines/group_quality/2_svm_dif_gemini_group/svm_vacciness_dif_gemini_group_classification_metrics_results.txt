@@ -1,0 +1,19 @@
+
+VACCINATION_OBLIGATION:
+  Dokładność: 0.8889
+  Precyzja:   0.8927
+  Czułość:    0.8773
+  Wynik F1:   0.8831
+
+VACCINE_EFFICACY:
+  Dokładność: 0.8632
+  Precyzja:   0.8153
+  Czułość:    0.8949
+  Wynik F1:   0.8371
+
+VACCINE_SAFETY:
+  Dokładność: 0.9135
+  Precyzja:   0.9243
+  Czułość:    0.9077
+  Wynik F1:   0.9116
+============================================================
